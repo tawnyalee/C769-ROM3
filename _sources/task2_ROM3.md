@@ -1,14 +1,18 @@
 :::{warning}
-Students starting C769 after 8/25/2024 will be automatically enrolled in the newest version, ROM3. The ROM3 requirements are very similar to ROM2. However, faculty could only review the new course after its release, and there may be some minor discrepancies between the latest course and our stated best practices. This website will be updated by 9/4.
+Students starting C769 after 8/25/2024 will be automatically enrolled in the newest version, ROM3. The ROM3 requirements are very similar to ROM2. However, faculty could only review the new course after its release, and there may be some minor discrepancies between the latest course and our stated best practices.
 :::
 
 # Task 2
 
 Write your proposal following **Task 2: The Proposal template**:
-> [![Thumbnail image of the Task 2: the Proposal template](https://github.com/ashejim/C769/blob/main/url_images/t2_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA)
+<!-- > [![Thumbnail image of the Task 2: the Proposal template](https://github.com/ashejim/C769/blob/main/url_images/t2_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA) -->
+
+> [Task 2: The Proposal Template](https://1drv.ms/w/s!Av4KQnJfiBxmiKN6FZxKU21dsuK1uA?e=NK7MNs)
 
 To gauge the level of detail evaluators typically expect, see the [task 2 examples](resources:examples) - passing, albeit not
 great, projects.
+
+Not sure where to start? Often, people start with the summary, A1-A3, but it might be easier to summarize a completed paper. Consider doing these last. Section F2 is a great place to begin. It can be written in bullet-point format and inherently outlines critical elements of the entire paper.
 
 <!-- <div class = "tasklist">
 
@@ -51,9 +55,10 @@ Sections are assessed independently against the rubric requirements, i.e., when 
 (task2:A)=
 ## Sections A1, A2, and A3: Overview
 
-:::{sidebar} Watch 
+:::{sidebar} Watch
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=db8381ab-1659-49e9-b5fc-ebb844c66944&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="A1, A2, anb A3: The Proposal" style="border: 1px solid #464646;" class="center" allowfullscreen allow="autoplay" alt= "Title screen for video.">
 </iframe>
+This video was created for ROM2, but is still relevant to this version, ROM3.
 :::
 
 The Proposal Overview has three parts:
@@ -73,19 +78,20 @@ Keeping an uninformed reader in mind may help you understand why the Proposal Ov
 
 (task2:B)=
 
-## Sections B and B1: Review of Other Work & Relations of Artifacts
+## Sections B and B1: Review of Other Work & Works Informing Design
 
 :::{sidebar} Watch
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=84af12b9-96da-41dc-b9ee-ac400141ba80&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="B and B1: Other Works" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class="center" alt= "Title screen for video.">
 </iframe>
+This video was created for ROM2, but is still relevant to this version, ROM3.
 :::
 
-Think of this section as a literature review where you summarize a work (part B) and then relate it to your project (B1). The works only need to connect to an aspect of your project; they don't need to align with it entirely. And you can use anything created by an industry professional, e.g., online articles, whitepapers, technical documentation, etc. Most importantly, you must have **four** different works cited following [APA guidelines](task2:grammar). Typically, a proposal would cite sources as needed, but for evaluation purposes, they added this section for demonstrating research.
 
-1. **Review a work.** For example, online articles, blogs, case studies, white papers, videos, etc.
-2. **Summarize the work.** Simply tell your reader what's in the resource you reviewed, no need to offer an opinion or analyze it -simply summarize the content. We recommend 1-2 paragraphs per work.
-3. **Relate the work to your project.** Following the summary, describe how the work expands the context of the problem or supports the implementation solution.
-4. **Include an APA style in-text citation,** e.g., (Author, year); follow [APA guidelines](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles/author-date) and use a [referencing tool](resources:general:grammar:sources).
+Think of this section as a literature review where you summarize a work (part B) and then relate it to your project (B1). The works *only need to connect to an aspect of your project*; they don't need to align with your project entirely. You can also use anything an industry professional created, e.g., online articles, videos, vendor documentation, whitepapers, etc. Most importantly, you must have **four** different works cited, e.g., (Smith, 2021) for APA. Typically, a proposal would cite sources as needed, but for evaluation purposes, they added this section to demonstrate research.
+
+1. **Summarize the work.** tell your reader what's in the resource you reviewed; there is no need to offer an opinion or analyze it -simply summarize the content. We recommend 1-2 paragraphs per work.
+2. **Include an in-text citation,** e.g., (Author, year) for [APA guidelines](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles/author-date). Consider using a [referencing tool](resources:general:grammar:sources).
+3. **Relate the work to your project.** Following the summary, describe how the work expands the context of the problem or supports the implementation solution. We recommend 1-2 paragraphs per work.
 
 - [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
 - [google.scholar.com](https://scholar.google.com/)
@@ -103,45 +109,27 @@ and then add WGU and other libraries.
 <img src="https://github.com/ashejim/C769/blob/main/url_images/google_scholar_demo.gif?raw=true" height="300px" alt= "An aninmated GIF demonstrating how to use google.scholar.com"/>
 :::
 
-## Sections C and D: Rationale and Current Environment
+## Section C: Project Rationale
 
-:::{sidebar} Watch
-<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=1fff04ae-4974-4999-b147-7fcb8d934904&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="C and D: Rationale & Current Envrionment" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class="center" alt= "Title screen for the video.">
-</iframe>
-:::
+The **Project Rationale** provides a comprehensive picture of *why* the project is needed. Describe the business, technical, and/or user needs. Internal and external environmental factors might also be included.
 
-(task2:C)=
+## Section D: Current Project Environment
 
-### Rationale
+‘Environment' is an umbrella which includes 'strategy' and 'culture.' For this section, do the following:  
 
-The **Project Rationale** provides a comprehensive picture of *why* the project is needed. Describe the business, technical, and/or user needs. Internal and external environmental factors might also be included. 
+- Discuss how the solution from A2 aligns with the client's approach to achieving its goals (strategy).
+- Discuss how the solution aligns with the client's beliefs and values (culture). This can explain how the solution does not contradict the client's culture.
 
-(task2:D)=
 
-### Current Environment
-
-In the **Current Project Environment** section, describe:
-
-1. The client's current state, e.g., number of employees, tech, software, etc.
-2. What's wrong with the client's current state?
-3. Why your solution fixes it?
-
-:::{tip}
-Sections are checked against the rubric requirements *individually*. So when the rubric is redundant, *be redundant* -adding appropriate detail or emphasis.  
-:::
-
-## Sections E and F: Methodology & Goals...
+## Section E: Methodology
 
 :::{sidebar} Watch
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e3d9d9d5-03c9-425f-abff-ac4c015c1410&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="E and F: Methodology & Goals" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class ="center" alt= "Title screen for the video.">
 </iframe>
+This video was made for ROM2, but is relevant to this version, ROM3. 
 :::
 
-(task2:E)=
-
-### Methodology
-
-In this section, you must
+In this section, you must do the followiung:
 
 1. Identify a "standard" methodology used to plan the project, e.g., ADDIE or SDLC.
 2. Describe the project steps to be completed in each phase of the methodology, e.g., analysis, design, etc.
@@ -150,13 +138,12 @@ Step 2 provides a detailed implementation plan of what is outlined in section A2
 
 (task2:F)=
 
-### Goals, Objectives, & Deliverables
+## Section F: Goals, Objectives, & Deliverables
 
-For this section,
+This section has two parts, F1 and F2.
 
-1. Provide a table outlining project goals, objectives, and deliverables.
-
-2. Separate from the table, describe each listed goal and objective.
+- F1. Provide a table outlining project goals, objectives, and deliverables.
+- F2. Separate from the table, describe each listed goal and objective.
 
 At minimum, there should be one goal, each goal should have two objectives, and each objective have one deliverable. Here's an example of what this might look like:
 
@@ -261,18 +248,15 @@ At minimum, there should be one goal, each goal should have two objectives, and 
 
 **Goals** and **objectives** are very similar. Goals are broader, defining the end you are trying to achieve (e.g., improving customer service). You need at least one goal. Objectives are more specific, often measurable steps supporting the goal (e.g., real-time inventory updates for customers). Goals and objectives can be considered high-level and mid-management tasks, respectively. **Deliverables** are tangible tasks supporting the objectives (e.g., an inventory status screen reporting real-time inventory to customers). 
 
-## Sections G and H: Timeline & Outcomes
+## Sections G: Project Timeline with Milestones
 
 :::{sidebar} Watch
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=a1daad4d-43f7-40e5-86be-ab7fe69ab76b&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="G and H: Timeline & Outcome" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class ="center" alt= "Title screen for the video.">
 </iframe>
+This video was made for ROM2, but is relevant to this version, ROM3.
 :::
 
-(task2:G)=
-
-### Project Timeline with Milestones
-
-Create a table providing the *Duration*, *Projected start date*, and *Anticipated end date* for each milestone and deliverable. No additional information is needed. 
+Create a table providing the *Duration*, *Projected start date*, and *Anticipated end date* for each milestone and deliverable. No additional information is needed.
 
 |Milestone or Deliverable  |Duration  | Projected Start Date| Projected End date
 --- | --- | ---| ---|
@@ -286,23 +270,24 @@ Create a table providing the *Duration*, *Projected start date*, and *Anticipate
 
 (task2:H)=
 
-### Outcome
+## Section H: Outcome
 
-Provide objective, measurable criteria for success. You need specific details so that the conclusion report, task 3, can comparatively be used to show the project was a success. Time-based metrics work best, for example, from page 18 of the [task 2 example](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task2-bsnos-a.pdf),
->...This project will be considered a success when the wireless network maintains has maintained 90% uptime a week for a month and when 75% of new member and loan documentation is processed over the credit union {cite:p}`task_2_example`.
+Provide objective, measurable criteria for success. You need specific details so that the conclusion report, task 3, can comparatively be used to show the project was a success. Furthermore, you must describe how data will be collected and measured to support the criteria. Time-based metrics work best, for example:
+
+>...This project will be considered a success when the wireless network maintains has maintained 90% uptime a week for a month and when 75% of new member and loan documentation is processed over the credit union.
 
 (task2:grammar)=
 
-## Grammar, Sources, and APA
+## Grammar and Sources
 
 It's easy to overlook them when focusing on content, but grammar, sources, and APA formatting are the most common reasons for rejected submissions!
-Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Style is not assessed (Grammarly marks these in blue, green, or purple), but even a few grammar errors (marked in red) will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.
+Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use).
 
-:::{warning}
-Students have reported missed mistakes when using the Google doc Grammarly extension. Therefore, we advise copying content directly into the app or purchasing the premium version compatible with MS Word.
-:::
+<img src="./url_images/grammarly_free.png" width="500px" alt = "An image showing where to access the free version of grammarly.com"/>
 
-Sources and format should follow [APA $7^{\text{th}}$ edition guidelines](https://apastyle.apa.org). Outside of grammar mistakes, most APA errors involve formatting of the sources or in-text citations. In-text citations should be of the form, `(Author, year)`. For more details, see [APA guidelines for citations](https://apastyle.apa.org/style-grammar-guidelines/citations).
+Style is not assessed (Grammarly marks these in blue, green, or purple), but even a few grammar errors (marked in red) will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.
+
+Sources and format should follow a consistent recognized writing style such as [APA $7^{\text{th}}$ edition guidelines](https://apastyle.apa.org). Outside of grammar mistakes, most errors involve formatting of the sources or in-text citations. For more details, see [APA guidelines for citations](https://apastyle.apa.org/style-grammar-guidelines/citations).
 
 Avoid reference errors by using a [referencing tool](resources:general:grammar:sources):
 
