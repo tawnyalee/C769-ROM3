@@ -1,5 +1,5 @@
 :::{warning}
-Students starting C769 after 8/25/2024 will be automatically enrolled in the newest version, ROM3. The ROM3 requirements are very similar to ROM2. However, faculty could only review the new course after its release, and there may be some minor discrepancies between the latest course and our stated best practices. This website will be updated by 9/4.
+Students starting C769 after 8/25/2024 will be automatically enrolled in the newest version, ROM3. The ROM3 requirements are very similar to ROM2. However, faculty could only review the new course after its release, and there may be some minor discrepancies between the latest course and our stated best practices.
 :::
 
 (task1)=
@@ -23,7 +23,20 @@ Propose a project that clearly includes the implementation of an actual IT solut
 A  *hard IT deliverable* is a physical or digital technological improvement to the client's environment. Examples include any hardware or software installation or updates. *Soft deliverables*, e.g., training, policies, evaluation, etc., can (and often should) be included but cannot meet the requirements alone. 
 ```
 
-This is not an exhaustive list.
+```{admonition} Do:
+:class: tip
+- Name a client and describe an IT need or problem.
+- Provide specifi IT improvments addressing the client's need or problem.
+- Email the completed approval form to your assigned course instructor for review and signature.
+```
+
+```{admonition} Do NOT:
+:class: warning
+- Choose a topic that is a framework, general approach, training, or evaluation.
+- Submit the approval form without a signature
+```
+
+Some examples of acceptable topics:
 
 - Multi-factor authentication (MFA) implementaion
 - Security information and event management (SIEM) implementation
@@ -52,7 +65,6 @@ For a more down-to-earth example of what's required, see these approval form exa
 > Task 2: [Project proposal example](https://github.com/ashejim/C769/blob/main/resources/examples/C769_ROM3_Task2_sample2_pass.pdf)  
 > Task 3: [Project report example](https://github.com/ashejim/C769/blob/main/resources/examples/C769_ROM3_Task2_sample2_pass.pdf)
 ````
-
 `````
 
 :::{tip}
@@ -61,7 +73,6 @@ If you see `Unable to render code block` when attempting to view the examples, o
 
 **Watch:** Choosing a Project Idea
 
-While helpful, this video was created for ROM2 -not ROM3.
 <iframe
     src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=691a0e9a-d33b-48ca-aac3-d7413f4bbfdc&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all"
     title="Choosing a topic"
@@ -73,9 +84,9 @@ While helpful, this video was created for ROM2 -not ROM3.
 >
 </iframe>
 
-While helpful, this podcast was created for ROM2 -not ROM3.
-
 **Listen:** IT Audio Series podcast [Choosing Your Topic](https://d2y36twrtb17ty.cloudfront.net/sessions/09c3d32b-1567-4636-88d6-ad5f01616619/3183eabf-4239-4e4a-ae20-ad5f01616620-8792ef88-6d24-43f6-9fe9-ad5f01619cc7.mp4?invocationId=0275eb54-33e0-eb11-8284-12c206d2fd2b); view the [transcript](https://www.wgu.edu/content/dam/western-governors/documents/it/audio-series/ChoosingYourTopic.docx).
+
+Though still relevant, this video and podcast were created for ROM2 -not ROM3.
 
 (task1:topicapproval)=
 
@@ -88,11 +99,10 @@ Once you've decided on a topic, complete the approval form following the templat
 > 
 > [Topic Approval Form Template odt format](https://1drv.ms/w/s!Av4KQnJfiBxmiIkGNA-i9xb5h9Syfg?e=0Wie3B)
 
-
 Include a rough outline of your client, their problem(s), and your IT plan to fix it. **Email the completed form to** **[your course instructor](ci_page)** who will either approve it with their signature or provide feedback.
 
 ```{note}
-The topic approval form must be *signed by a* *[C769 course instructor](ci_page)*. Forms without a signature are automatically returned without further review.  
+- The topic approval form must be *signed by a* *[C769 course instructor](ci_page)*. Forms without a signature are automatically returned without further review. 
 ```
 
 Directly emailing your assigned course instructor is the fastest and often best way to get a signature. Whether emailing [ugcapstoneit@wgu.edu](mailto:ugcapstoneit@wgu.edu?cc=my%20course%20instructor&subject=C769:%20capstone%20topic%20approval&body=Your%20name%20and%20question%20here.%20We%20can%20only%20respond%20to%20messages%20from%20a%20valid%20WGU%20email%20address.%20%0A%0ADegree%20program%3A%20%0AProgram%20Mentor%3A%20%0A) or your CI directly, always practice professional communication:
@@ -101,7 +111,7 @@ Directly emailing your assigned course instructor is the fastest and often best 
 - Provide a subject, your capstone course, and your program mentor's name (if not in your signature)
 - Clearly state your questions or requests.
 
-You only need to apply for IRB review if you are collecting data involving human participants (this is rarely needed). Otherwise, your project is in IRB compliance, and you should put a $\checkmark$ next to the IRB statement. For more details see [WGU IRB and Human Subject Protections FAQ](https://cm.wgu.edu/t5/Frequently-Asked-Questions/WGU-IRB-and-Human-Subject-Protections-FAQ/ta-p/2002).
+You only need to apply for IRB review if you are collecting data involving human participants (this is rarely needed). Otherwise, your project is in IRB compliance, and you should put a $\checkmark$ next to the IRB statement.
 
 (task1:waiverform)=
 
@@ -110,7 +120,7 @@ You only need to apply for IRB review if you are collecting data involving human
 <!-- Everyone must submit a waiver form stating either their project is not based on restricted information OR use of any restricted information is authorized. -->
 
 ```{note}
-The waiver form is **only** required if your project includes restricted information. If no waiver form is submitted, Task 1 *B: Capstone Release Form*, passes automatically.
+The waiver form is **only** required if your project includes restricted information. If no waiver form is submitted, **Task 1 B:RESTRICTED INFORMATION AUTHORIZATION FORM*, passes automatically.
 ```
 
 In most cases, obtaining authorization can be avoided by fabricating or masking identifying information. But if you choose to move forward using restricted information, you must obtain documented permissions and submit them along with a waiver form to Assessments.
@@ -141,9 +151,9 @@ No. Minor changes from task 1 to task 2 are expected and allowed *without updati
 
 Yes! You can use any of your work or academic projects (at WGU or elsewhere) provided no proprietary information is used without permission. Don't worry about self-plagiarism, as the similarity check will identify and ignore it. Just as in reusing work projects, expect to modify and remold past academic assignments to meet the rubric requirements.
 
-### Do I need an "electronic signature" as specified in the official rubric?
+### How do I add my "signature" to the forms?
 
-You can type in your name, use a "fancy" font, or insert an image of your signature.  
+You can simply type in your name, use a "fancy" font, or insert an image of your signature.  
 
 ### What are the common reasons for task 1 being returned?
 

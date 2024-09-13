@@ -14,9 +14,9 @@ Students starting C769 after 8/25/2024 will be automatically enrolled in the new
 
 The approval form ensures you start in the right direction before investing time and effort into task 2. Evaluators look for our ([instructors'](ci_page)) signature, and we look for the following:
 
-1. *Relation* to your degree emphasis.
-2. A *specific* client and problem (you can fabricate a client whose problem needs your chosen solution.)
-3. The implementation of a [hard IT deliverable](task1:faq:hard) that helps solve that problem.
+1. A *specific* client and problem (you can fabricate a client whose problem needs your chosen solution.)
+2. The implementation of a [hard IT deliverable](task1:faq:hard) that helps solve that problem.
+3. *Relation* to your degree emphasis (not required, but preferred.).
 
 ```{margin} What is a hard IT deliverable?
 A  *hard IT deliverable* is a physical or digital technological improvement to the client's environment. Examples include any hardware or software installation or updates. *Soft deliverables*, e.g., training, policies, evaluation, etc., can (and often should) be included but cannot meet the requirements alone. 

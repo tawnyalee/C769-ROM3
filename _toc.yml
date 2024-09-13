@@ -13,8 +13,8 @@ parts:
 - caption:
   chapters:
   - file: task1_ROM3
-  - file: task2
-  - file: task3
+  - file: task2_ROM3
+  - file: task3_ROM3
 
 - caption:
   chapters:
