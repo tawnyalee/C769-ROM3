@@ -125,7 +125,7 @@ The **Project Rationale** provides a comprehensive picture of *why* the project 
 :::{sidebar} Watch
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e3d9d9d5-03c9-425f-abff-ac4c015c1410&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="E and F: Methodology & Goals" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class ="center" alt= "Title screen for the video.">
 </iframe>
-This video was made for ROM2, but is relevant to this version, ROM3. 
+This video was made for ROM2, but is relevant to this version, ROM3.
 :::
 
 In this section, you must do the following:
@@ -287,8 +287,7 @@ Time-based metrics work best, for example:
 
 It's easy to overlook them when focusing on content, but grammar, sources, and APA formatting are the most common reasons for rejected submissions!
 Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). A free education license is availabel for all WGU students:
-
-<img src="https://github.com/ashejim/C769-ROM3/blob/main/url_images/grammarly_free.png?raw=true#icon" width="500px" alt = "An image showing where to access the free version of grammarly.com"/>
+<img src="https://github.com/ashejim/C769-ROM3/blob/main/url_images/grammarly_free.png?raw=true#icon" width="2000px" alt = "An image showing where to access the free version of grammarly.com"/>
 
 Style is not assessed (Grammarly marks these in blue, green, or purple), but even a few grammar errors (marked in red) will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.
 
