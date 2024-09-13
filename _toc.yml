@@ -18,6 +18,6 @@ parts:
 
 - caption:
   chapters:
-  - file: resources
+  - file: resources_ROM3
   - file: ci_page
   - file: support_this_page
