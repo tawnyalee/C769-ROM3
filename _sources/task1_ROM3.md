@@ -17,7 +17,7 @@ The approval form ensures you start in the right direction before investing time
 1. A *specific* client and problem (you can fabricate a client whose problem needs your chosen solution.)
 2. A plan to implement specific at least one [hard IT deliverable](task1:faq:hard) that helps solve that problem.
 
-Propose a project that clearly includes the implementation of an actual IT solution (e.g. actual hardware, software, networks, etc.) rather than a project that only involves the development of a plan or abstract framework. You must describe the specific hard IT delierable(s) to be implmented. If the topic requires an initial assessment, as with many security projects, assume that the evaluation has already been conducted so that the approval form (Task 1) and proposal (Task 2) can focus on implementing the solution.
+Propose a project that clearly includes the implementation of an IT solution (e.g. hardware, software, networks, etc.) rather than a project that only involves the development of a plan or abstract framework. You must describe the specific hard IT delierable(s) to be implmented. If the topic requires an initial assessment, as with many security projects, assume the evaluation has already been conducted so that the approval form (Task 1) and proposal (Task 2) can focus on implementing the solution.
 
 ```{margin} What is a hard IT deliverable?
 A  *hard IT deliverable* is a physical or digital technological improvement to the client's environment. Examples include any hardware or software installation or updates. *Soft deliverables*, e.g., training, policies, evaluation, etc., can (and often should) be included but cannot meet the requirements alone. 
@@ -31,7 +31,7 @@ A  *hard IT deliverable* is a physical or digital technological improvement to t
 ```
 
 ```{admonition} Do NOT:
-:class: warning
+:class: error
 - Choose a topic that is a framework, general approach, training, or evaluation.
 - Submit the approval form without a signature
 ```
