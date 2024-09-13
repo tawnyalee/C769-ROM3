@@ -72,8 +72,8 @@ It is not assessed, but you are writing for an uninformed reader -the client nee
 Keeping an uninformed reader in mind may help you understand why the Proposal Overview could extend for several pages. Imagine explaining the project to a non-technical friend. Adopting more accessible language requires explaining terms and concepts customarily taken for granted, which creates content. Also, WGU evaluators need to understand the problem at hand, the organizational environment in which it exists, what might or might not work as a solution, and how you will implement the solution. These sections introduce them to your project and provide the context by which they assess other areas.
 
 ```{tip}
-- Write these sections last or return to them after writing each subsequent section to ensure your overview accurately summarizes your project. 
-- The required depth of detail is up to the subjectivity of the evaluator. Though summaries are typically short, there is no penalty for *too much* detail.
+- Write these sections last to ensure your overview accurately summarizes your project. 
+- The required depth of detail is up to the *subjectivity* of the evaluator. Though summaries are typically short, there is no penalty for *too much* detail.
 ```
 
 (task2:B)=
@@ -87,11 +87,11 @@ This video was created for ROM2, but is still relevant to this version, ROM3.
 :::
 
 
-Think of this section as a literature review where you summarize a work (part B) and then relate it to your project (B1). The works *only need to connect to an aspect of your project*; they don't need to align with your project entirely. You can also use anything an industry professional created, e.g., online articles, videos, vendor documentation, whitepapers, etc. Most importantly, you must have **four** different works cited, e.g., (Smith, 2021) for APA. Typically, a proposal would cite sources as needed, but for evaluation purposes, they added this section to demonstrate research.
+Think of this section as a literature review where you summarize a work (part B) and then relate it to your project (B1). The works *only need to connect to an aspect of your project*; they don't need to align with your project entirely. You use anything an industry professional created, e.g., online articles, videos, vendor documentation, whitepapers, etc. Most importantly, you must have **four** different works cited with an intext citation, e.g., (Smith, 2021).
 
-1. **Summarize the work.** tell your reader what's in the resource you reviewed; there is no need to offer an opinion or analyze it -simply summarize the content. We recommend 1-2 paragraphs per work.
+1. **Summarize the work.** tell your reader what's the work is about; there is no need to offer an opinion or analyze it -simply summarize the content. We recommend 1-2 paragraphs per work.
 2. **Include an in-text citation,** e.g., (Author, year) for [APA guidelines](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles/author-date). Consider using a [referencing tool](resources:general:grammar:sources).
-3. **Relate the work to your project.** Following the summary, describe how the work expands the context of the problem or supports the implementation solution. We recommend 1-2 paragraphs per work.
+3. **Relate the work to your project.** Following the summary, describe how the work expands the context of the problem or supports the implementation solution. We recommend at least one paragraph per work.
 
 - [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
 - [google.scholar.com](https://scholar.google.com/)
@@ -99,7 +99,7 @@ Think of this section as a literature review where you summarize a work (part B)
 :::{tip}
 Stuck? Return to this section later. You will likely collect sources while conducting research for other sections. Hang on to any extras; you'll need *three different* works for Task 3.
 
-These resources do not have to be a one-to-one match to your project. What's accepted is very broad.
+The works are not expected to be a one-to-one match of your project. What's accepted is very broad.
 :::
 
 :::{tip}
@@ -120,7 +120,6 @@ The **Project Rationale** provides a comprehensive picture of *why* the project 
 - Discuss how the solution from A2 aligns with the client's approach to achieving its goals (strategy).
 - Discuss how the solution aligns with the client's beliefs and values (culture). This can explain how the solution does not contradict the client's culture.
 
-
 ## Section E: Methodology
 
 :::{sidebar} Watch
@@ -129,7 +128,7 @@ The **Project Rationale** provides a comprehensive picture of *why* the project 
 This video was made for ROM2, but is relevant to this version, ROM3. 
 :::
 
-In this section, you must do the followiung:
+In this section, you must do the following:
 
 1. Identify a "standard" methodology used to plan the project, e.g., ADDIE or SDLC.
 2. Describe the project steps to be completed in each phase of the methodology, e.g., analysis, design, etc.
@@ -260,8 +259,8 @@ Create a table providing the *Duration*, *Projected start date*, and *Anticipate
 
 |Milestone or Deliverable  |Duration  | Projected Start Date| Projected End date
 --- | --- | ---| ---|
-|Some milestones |7 days|7/23/2022|7/30/2022|
-|Some deliverables |14 days|7/16/2022|7/30/2022|
+|Some milestone |7 days|7/23/2022|7/30/2022|
+|Some deliverable |14 days|7/16/2022|7/30/2022|
 |$\vdots$ |$\vdots$ |$\vdots$ |$\vdots$ |
 
 ```{note}
@@ -272,7 +271,13 @@ Create a table providing the *Duration*, *Projected start date*, and *Anticipate
 
 ## Section H: Outcome
 
-Provide objective, measurable criteria for success. You need specific details so that the conclusion report, task 3, can comparatively be used to show the project was a success. Furthermore, you must describe how data will be collected and measured to support the criteria. Time-based metrics work best, for example:
+Provide objective, measurable criteria for success. You need specific details so that the conclusion report, task 3, can comparatively be used to show the project was a success. Furthermore, you must describe how data will be collected and measured to support the criteria. Include the following:
+
+- A metric for determining sucess.
+- A description of how the metric's data will be collected.
+- A description of the the metirc's data will be measured.  
+
+Time-based metrics work best, for example:
 
 >...This project will be considered a success when the wireless network maintains has maintained 90% uptime a week for a month and when 75% of new member and loan documentation is processed over the credit union.
 
@@ -281,9 +286,9 @@ Provide objective, measurable criteria for success. You need specific details so
 ## Grammar and Sources
 
 It's easy to overlook them when focusing on content, but grammar, sources, and APA formatting are the most common reasons for rejected submissions!
-Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use).
+Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). A free education license is availabel for all WGU students:
 
-<img src="./url_images/grammarly_free.png" width="500px" alt = "An image showing where to access the free version of grammarly.com"/>
+<img src="https://github.com/ashejim/C769-ROM3/blob/main/url_images/grammarly_free.png?raw=true#icon" width="500px" alt = "An image showing where to access the free version of grammarly.com"/>
 
 Style is not assessed (Grammarly marks these in blue, green, or purple), but even a few grammar errors (marked in red) will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.
 
@@ -305,11 +310,11 @@ Get the best help from the [WGU Academic Coaching Center](resources:general:gram
 
 If you have specific questions or concerns -yes. However, in most cases, it's best just to submit. What suffices as “sufficient detail” is highly subjective. We can always tell you to add more, but if you've done your best to fulfill the requirements, submit it and let them tell you which (if any) parts need to be rewritten. At best, it passes; at worst, we address the issues cited by the evaluator -and then it passes. Responding to the more narrow focus of the evaluator's comments is generally easier than overworking the entire project.
 
-You have *unlimited* submissions but limited time. And, typically this is the best and most efficient approach. 
+You have *unlimited* submissions but limited time. And, typically this is the best and most efficient approach.
 
-### The Task 2 template has suggested page lengths. Are these lengths required?
+### I see some suggestions about writing lengths. Is there a requried number of pages?
 
-No. Those are just suggestions. The individual evaluator determines what qualifies as "sufficient detail" and will vary depending on the project and writing style. If you feel you've met the requirements, simply move on to the next section. Upon submission, it will pass, or they will request more details.
+No. Those are just suggestions. The individual evaluator determines what qualifies as "sufficient detail" and this judgement will vary depending on your project and writing style. If you feel you've met the requirements, simply move on to the next section. Upon submission, it will pass, or they will request more details.
 
 ### How many submission attempts do I have?
 
@@ -317,7 +322,7 @@ You have unlimited submissions (as with all WGU performance assessments). Furthe
 
 ### I can't find sources for section B, *Other Works*. What can I do?
 
-You are likely over interpreting what's required. Rarely are submissions sent back because cited works are unsuitable. You can use any citable work created by a professional which can be *related* to your project -it does not need to align with your project entirely. For example, a cloud migration project might include articles about AWS, security advantages, cost advantages, etc. 
+You are likely over interpreting what's required. Rarely are submissions sent back because cited works are unsuitable. You can use any citable work created by a professional which can be *related* to your project -it does not need to align with your project entirely. For example, a cloud migration project might include articles about AWS, security advantages, cost advantages, etc.
 
 ### My task was returned for "In-text citations could not be found..."
 
@@ -325,11 +330,11 @@ You are likely over interpreting what's required. Rarely are submissions sent ba
 > "In-text citations could not be found for portions of the task that have been quoted or paraphrased... "
 **What does this comment mean?**
 
-This comment indicates they could not find a matching in-text citation for every source on your reference list. Check that each reference has a match following APA style, e.g., (Author, year), and remove any references without matches. Use a [referencing tool](resources:general:grammar:sources) to create, manage references, and avoid such errors. Follow the in-text citations and the reference page format of the [tasks 2 and 3 examples](resources:examples).
+This comment indicates they could not find a matching in-text citation for every source on your reference list. Check that each reference has a match following an approved writing style, e.g., (Author, year), and remove any references without matches. Use a [referencing tool](resources:general:grammar:sources) to create, manage references, and avoid such errors. Follow the in-text citations and the reference page format of the [tasks 2 and 3 examples](resources:examples).
 
 ### What if I start writing task 2 and want to change things? Do I need to resubmit task 1?
 
-No. Minor changes from task 1 to task 2 are expected and allowed *without updating the approval form*. Evaluators will not rigorously compare tasks 1 and 2. Task 2 is where the work is, and even with complete topic changes at most, you might need to revise the approval form (if at all). So never let task 1 dictate what you do in task 2. However, deviating significantly from what was approved could put you at risk of completing a project not meeting the requirements. So while small changes do not need review, substantial changes should be discussed with your assigned course instructor.
+No. Minor changes from task 1 to task 2 are expected and allowed *without updating the approval form*. Evaluators will not rigorously compare Tasks 1 and 2. Task 2 is where the majority of your work will be, and even with complete topic changes, you might at most need to revise the approval form (if at all). So never let Task 1 dictate what you do in Task 2. However, deviating significantly from what was approved could put you at risk of completing a project unable to meet the requirements. So while small changes do not need review, substantial changes should be discussed with your assigned course instructor.
 
 ### Are the appendices required?
 
