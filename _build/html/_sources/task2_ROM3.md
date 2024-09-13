@@ -287,7 +287,7 @@ Time-based metrics work best, for example:
 
 It's easy to overlook them when focusing on content, but grammar, sources, and APA formatting are the most common reasons for rejected submissions!
 Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). A free education license is availabel for all WGU students:
-<img src="https://github.com/ashejim/C769-ROM3/blob/main/url_images/grammarly_free.png" width="500px" alt = "An image showing where to access the free version of grammarly.com"/>
+<img src="https://github.com/ashejim/C769-ROM3/blob/main/url_images/grammarly_free.png?raw=true" width="500px" alt = "An image showing where to access the free version of grammarly.com"/>
 
 Style is not assessed (Grammarly marks these in blue, green, or purple), but even a few grammar errors (marked in red) will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.
 
