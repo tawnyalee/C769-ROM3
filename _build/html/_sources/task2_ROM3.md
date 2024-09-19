@@ -53,21 +53,21 @@ Sections are assessed independently against the rubric requirements, i.e., when 
 :::
 
 (task2:A)=
-## Sections A1, A2, and A3: Overview
+## A: Proposal Overview
 
 :::{sidebar} Watch
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=db8381ab-1659-49e9-b5fc-ebb844c66944&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="A1, A2, anb A3: The Proposal" style="border: 1px solid #464646;" class="center" allowfullscreen allow="autoplay" alt= "Title screen for video.">
 </iframe>
-This video was created for ROM2, but is still relevant to this version, ROM3.
+This video was created for ROM2 but is still relevant for ROM3.
 :::
 
 The Proposal Overview has three parts:
 
-1. The Problem Summary
-2. The IT Solution
-3. The Implementation Plan
+1. The Problem Summary (A1)
+2. The IT Solution (A2)
+3. The Implementation Plan (A3 and A3a)
 
-It is not assessed, but you are writing for an uninformed reader -the client needing your expertise. Explain what's wrong with their situation, why your solution is the fix, and how you'll implement that solution. 
+It is not assessed, but you are writing for an uninformed reader -the client needing your expertise. Explain what's wrong with their situation, why your solution is the fix, and how you'll implement that solution.
 
 Keeping an uninformed reader in mind may help you understand why the Proposal Overview could extend for several pages. Imagine explaining the project to a non-technical friend. Adopting more accessible language requires explaining terms and concepts customarily taken for granted, which creates content. Also, WGU evaluators need to understand the problem at hand, the organizational environment in which it exists, what might or might not work as a solution, and how you will implement the solution. These sections introduce them to your project and provide the context by which they assess other areas.
 
@@ -76,14 +76,30 @@ Keeping an uninformed reader in mind may help you understand why the Proposal Ov
 - The required depth of detail is up to the *subjectivity* of the evaluator. Though summaries are typically short, there is no penalty for *too much* detail.
 ```
 
+### A1: Problem Summary
+
+Summarize the IT problem. Provide context to understand the problem, e.g., details about the client and their situation.
+
+### A2: IT Solution
+
+Summarize the solution and why the solution will fix the problem from A1. 
+
+### A3 and A3a: Implementation Plan and Justification of Plan
+
+Summarize the implemetation plan detailed in section E (Methodology). The summary should:
+
+- Outline specific steps
+- Identify who will implement each step
+- Justify why the plan is appropiate (A3a), e.g., why do this plan instead of another one? 
+
 (task2:B)=
 
-## Sections B and B1: Review of Other Work & Works Informing Design
+## B and B1: Review of Other Work & Works Informing Design
 
 :::{sidebar} Watch
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=84af12b9-96da-41dc-b9ee-ac400141ba80&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="B and B1: Other Works" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class="center" alt= "Title screen for video.">
 </iframe>
-This video was created for ROM2, but is still relevant to this version, ROM3.
+This video was created for ROM2 but is still relevant for ROM3.
 :::
 
 
@@ -93,8 +109,8 @@ Think of this section as a literature review where you summarize a work (part B)
 2. **Include an in-text citation,** e.g., (Author, year) for [APA guidelines](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles/author-date). Consider using a [referencing tool](resources:general:grammar:sources).
 3. **Relate the work to your project.** Following the summary, describe how the work expands the context of the problem or supports the implementation solution. We recommend at least one paragraph per work.
 
-- [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
-- [google.scholar.com](https://scholar.google.com/)
+<!-- - [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
+- [google.scholar.com](https://scholar.google.com/) -->
 
 :::{tip}
 Stuck? Return to this section later. You will likely collect sources while conducting research for other sections. Hang on to any extras; you'll need *three different* works for Task 3.
@@ -109,18 +125,20 @@ and then add WGU and other libraries.
 <img src="https://github.com/ashejim/C769/blob/main/url_images/google_scholar_demo.gif?raw=true" height="300px" alt= "An aninmated GIF demonstrating how to use google.scholar.com"/>
 :::
 
-## Section C: Project Rationale
+## C: Project Rationale
 
 The **Project Rationale** provides a comprehensive picture of *why* the project is needed. Describe the business, technical, and/or user needs. Internal and external environmental factors might also be included.
 
-## Section D: Current Project Environment
+## D: Current Project Environment
 
-‘Environment' is an umbrella which includes 'strategy' and 'culture.' For this section, do the following:  
+For this section, do the following:  
 
-- Discuss how the solution from A2 aligns with the client's approach to achieving its goals (strategy).
-- Discuss how the solution aligns with the client's beliefs and values (culture). This can explain how the solution does not contradict the client's culture.
+- Discuss how the solution from A2 will improve the client's approach to achieving its goals (strategy).
+- Discuss how the solution from A2 will align with the client's beliefs and values (culture). This can explain how the solution does not contradict the client's culture.
 
-## Section E: Methodology
+‘Environment' is an umbrella which includes 'strategy' and 'culture.'
+
+## E: Methodology
 
 :::{sidebar} Watch
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e3d9d9d5-03c9-425f-abff-ac4c015c1410&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="E and F: Methodology & Goals" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class ="center" alt= "Title screen for the video.">
@@ -137,7 +155,7 @@ Step 2 provides a detailed implementation plan of what is outlined in section A2
 
 (task2:F)=
 
-## Section F: Goals, Objectives, & Deliverables
+## F: Goals, Objectives, & Deliverables
 
 This section has two parts, F1 and F2.
 
@@ -247,12 +265,12 @@ At minimum, there should be one goal, each goal should have two objectives, and 
 
 **Goals** and **objectives** are very similar. Goals are broader, defining the end you are trying to achieve (e.g., improving customer service). You need at least one goal. Objectives are more specific, often measurable steps supporting the goal (e.g., real-time inventory updates for customers). Goals and objectives can be considered high-level and mid-management tasks, respectively. **Deliverables** are tangible tasks supporting the objectives (e.g., an inventory status screen reporting real-time inventory to customers). 
 
-## Sections G: Project Timeline with Milestones
+## G: Project Timeline with Milestones
 
 :::{sidebar} Watch
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=a1daad4d-43f7-40e5-86be-ab7fe69ab76b&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="G and H: Timeline & Outcome" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class ="center" alt= "Title screen for the video.">
 </iframe>
-This video was made for ROM2, but is relevant to this version, ROM3.
+This video was made for ROM2, but is relevant to ROM3.
 :::
 
 Create a table providing the *Duration*, *Projected start date*, and *Anticipated end date* for each milestone and deliverable. No additional information is needed.
@@ -269,7 +287,7 @@ Create a table providing the *Duration*, *Projected start date*, and *Anticipate
 
 (task2:H)=
 
-## Section H: Outcome
+## H: Outcome
 
 Provide objective, measurable criteria for success. You need specific details so that the conclusion report, task 3, can comparatively be used to show the project was a success. Furthermore, you must describe how data will be collected and measured to support the criteria. Include the following:
 
@@ -283,15 +301,15 @@ Time-based metrics work best, for example:
 
 (task2:grammar)=
 
-## Grammar and Sources
+## Professional Communication and Sources
 
-It's easy to overlook them when focusing on content, but grammar, sources, and APA formatting are the most common reasons for rejected submissions!
-Check your grammar using [Grammarly.com](https://www.grammarly.com/) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). A free education license is availabel for all WGU students:
-<img  style='border:1px solid #000000' src="https://github.com/ashejim/C769-ROM3/blob/main/url_images/grammarly_free.png?raw=true" width="500px" alt = "An image showing where to access the free version of grammarly.com"/>
+It's easy to overlook them when focusing on content, but grammar, sources, and APA formatting are the most common reasons for rejected submissions! Check your grammar using [Grammarly.com](https://cm.wgu.edu/t5/Academic-Coaching-Center/I-Need-Help-with-Professional-Communication/ta-p/23355) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Get your [FREE Gramamrly education license](https://www.grammarly.com/edu/western-governors-university) through WGU.  
 
-Style is not assessed (Grammarly marks these in blue, green, or purple), but even a few grammar errors (marked in red) will prevent competency in *Professional Communication*. The free side has been sufficient, but if using the online app, you sometimes need to wait before mistakes are caught.
+Style is not assessed (Grammarly marks these in blue, green, or purple), but even a few grammar errors (marked in red) can prevent competency in *Professional Communication*. For more details, see:
 
-Sources and format should follow a consistent recognized writing style such as [APA $7^{\text{th}}$ edition guidelines](https://apastyle.apa.org). Outside of grammar mistakes, most errors involve formatting of the sources or in-text citations. For more details, see [APA guidelines for citations](https://apastyle.apa.org/style-grammar-guidelines/citations).
+-[Help with Professionl Commnication](https://cm.wgu.edu/t5/Academic-Coaching-Center/I-Need-Help-with-Professional-Communication/ta-p/23355)
+
+Sources and format should consistenely follow a recognized academic writing style. We recommend [APA $7^{\text{th}}$ edition guidelines](https://apastyle.apa.org). Outside of grammar mistakes, most style errors involve formatting of the sources or in-text citations. For APA, in-text citations should be of the form `(Author, year)`. For more details, see [APA guidelines for citations](https://apastyle.apa.org/style-grammar-guidelines/citations).
 
 Avoid reference errors by using a [referencing tool](resources:general:grammar:sources):
 

@@ -165,7 +165,7 @@ Be aware that task 2 and 3 evaluations often take the full three days. Therefore
 
 ### Accelerated Plan
 
-Nearing the end of your term? Plan accordingly *Note: video created for ROM2, but is still primarily relevant for ROM3.*:
+Nearing the end of your term? Plan accordingly *Note: This video was created for ROM2 but is mostly relevant for ROM3..*:
 
 <iframe width="560" height="315" src="https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5deb87f-d7ee-42c8-9c02-b10a013f0dae" title="Passing C769 before your end of term" frameborder="0" style="border: 1px solid #464646;" alt= "Title screen for video">
 </iframe>
