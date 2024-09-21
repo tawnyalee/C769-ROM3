@@ -68,17 +68,29 @@ Get the best writing help from the writing experts: [WGU Writing Center](https:/
 
 (resources:general:grammar:sources)=
 
-### Sources and APA formatting
+## Sources and Professional Communication
 
-Sources and format can follow any recognized [writing style](https://pitt.libguides.com/citationhelp). APA is the most common chosen format: [APA $7^{\text{th}}$ edition guidelines](https://apastyle.apa.org). 
+It's easy to overlook them when focusing on content, but grammar, sources, and APA formatting are the most common reasons for rejected submissions! Check your grammar using [Grammarly.com](https://cm.wgu.edu/t5/Academic-Coaching-Center/I-Need-Help-with-Professional-Communication/ta-p/23355) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Get your [FREE Gramamrly education license](https://www.grammarly.com/edu/western-governors-university) through WGU.  
 
-Outside of grammar mistakes, most writing errors involve formatting of the sources or in-text citations. 
-What's most imporatant is that your formatting is consistent and clear as to which reference is being cited. For more details on APA, see [APA guidelines for citations](https://apastyle.apa.org/style-grammar-guidelines/citations) and [APA guide for missing reference information](https://apastyle.apa.org/style-grammar-guidelines/references/missing-information).
+Style is not assessed (Grammarly marks these in blue, green, or purple), but even a few grammar errors (marked in red) can prevent competency in *Professional Communication*.
 
-Avoid reference errors by using a **referencing tool:**
+```{warning}
+Grammar is now assessed using AI. Do not copy and paste from the Grammarly app into MS Word. It is best to make revisions directly in MS Word.
+```
+
+For more details, see:
+
+-[Help with Professionl Commnication](https://cm.wgu.edu/t5/Academic-Coaching-Center/I-Need-Help-with-Professional-Communication/ta-p/23355)
+
+Sources and format should consistenely follow a recognized academic writing style. We recommend [APA $7^{\text{th}}$ edition guidelines](https://apastyle.apa.org). Outside of grammar mistakes, most style errors involve formatting of the sources or in-text citations. For APA, in-text citations should be of the form `(Author, year)`. For more details, see [APA guidelines for citations](https://apastyle.apa.org/style-grammar-guidelines/citations).
+
+Avoid reference errors by using a [referencing tool](resources:general:grammar:sources):
+
 - [MS Word Reference Tool](https://support.microsoft.com/en-us/office/create-a-bibliography-citations-and-references-17686589-4824-4940-9c69-342c289fa2a5) $\leftarrow$ desktop version only.
 - [JabRef](https://www.jabref.org) $\leftarrow$ free and works on most platforms.
 - [LibreOffice Reference Tool](https://www.ubuntubuzz.com/2015/07/how-to-create-apa-style-bibliography-in-libreoffice.html#google_vignette). - [Download LibreOffice](https://www.libreoffice.org/download) for free.
+
+Get the best help from the [WGU Academic Coaching Center](resources:general:grammar:writing_center).
 
 (resources:general)=
 
@@ -146,22 +158,17 @@ This is a wholly written exercise (an actual project is not required), but fabri
 3. Check the IRB statement and email the completed form to your [assigned course instructor](https://ashejim.github.io/C769/ci_page.html) for signature. Appointments before approval are not required but are encouraged if you have concerns. 
 
 Afterward, you can start working on [Task 2](https://ashejim.github.io/C769/task2.html). 
-```
-
+``` -->
 (resources:general:pacing)=
 
-### Pacing Guide
+<!-- ### Pacing Guide
 
 |          Normal      | Accelerated                          |Instructions/Steps|
 |----------------|-------------------------------|-----------------------------|
 | Week 1 | Days 2-3 | Follow the steps in the <a href="https://ashejim.github.io/C769/task1.html">Task 1 Guide</a>.<ol><li>Watch the <a href="https://ashejim.github.io/C769/intro.html"> welcome video</a>.</li><li>Having trouble defining a topic? <a href="https://ashejim.github.io/C769/ci_page.html">Contact your course intructor</a>.</li><li>Email your completed topic approval form to <a href="https://ashejim.github.io/C769/ci_page.html">your course intructor</a>.</li><li>Submit your <em>signed</em> approval form to Assessments, and get started on the next step!</li></ol>|
 | Week 2 | Days 4-8 | Follow the steps in the <a href="https://ashejim.github.io/C769/task2.html">Task 2 Guide</a>.<ol><li>Watch all the <a href="https://ashejim.github.io/C769/resources.html#task-2-videos">Task 2 Videos</a>.</li><li> Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-g-and-h-timeline-outcomes">sections G and H video</a>, review the corresponding sections in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write sections G and H.  </li><li>Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-e-and-f-methodology-goals">sections E and F video</a>, review the corresponding sections in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write sections E and F.</li> </ol>|
 | Week 3 | Days 9-13 | Continue following the <a href="https://ashejim.github.io/C769/task2.html">Task 2 Guide</a>. <ol><li> Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-c-and-d-rationale-and-current-environment">sections C and D video</a>, review the corresponding sections in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write sections C and D. </li><li>Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-a1-a2-and-a3-overview">section A video</a>, review the corresponding section in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write section A (review and reuse content from C, D, and E).</li><li>Watch the <a href="https://ashejim.github.io/C769/task2.html#sections-b-and-b1-review-of-other-work-relations-of-artifacts">section B video</a>, review the corresponding section in the <a href="https://ashejim.github.io/C769/resources.html#examples">Task 2 examples</a>, and then write section B.</li><li>Check <a href="https://ashejim.github.io/C769/resources.html#grammar-sources-and-apa">grammar, sources, APA formatting</a>, and submit! Immediately move on to task 3.</li></ol>|
-| Week 4 | Day 14+ | Follow the steps in the <a href="https://ashejim.github.io/C769/task3.html">Task 3 Guide</a>.<ol><li>Watch the <a href="https://ashejim.github.io/C769/task3.html#writing-task-3">Task 3 Video</a>.</li><li>Using the <em>Task 3 template</em>, follow instructions for how to modify task 2 sections to fit the task 3 requirements.</li><li>Check <a href="https://ashejim.github.io/C769/resources.html#grammar-sources-and-apa">grammar, sources, APA formatting</a>, and submit!</li></ol>|
-
-```{warning}
-Be aware that task 2 and 3 evaluations often take the full three days. Therefore, if you are approaching the end of your term, don't wait on task 2 to start task 3 and submit task 3 early enough to have it returned, revised, and resubmitted.
-``` -->
+| Week 4 | Day 14+ | Follow the steps in the <a href="https://ashejim.github.io/C769/task3.html">Task 3 Guide</a>.<ol><li>Watch the <a href="https://ashejim.github.io/C769/task3.html#writing-task-3">Task 3 Video</a>.</li><li>Using the <em>Task 3 template</em>, follow instructions for how to modify task 2 sections to fit the task 3 requirements.</li><li>Check <a href="https://ashejim.github.io/C769/resources.html#grammar-sources-and-apa">grammar, sources, APA formatting</a>, and submit!</li></ol>| -->
 
 ### Accelerated Plan
 
@@ -172,3 +179,7 @@ Nearing the end of your term? Plan accordingly *Note: This video was created for
 
 <!-- <iframe width="560" height="315" src="https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5deb87f-d7ee-42c8-9c02-b10a013f0dae" title="Passing C769 before your end of term" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" alt= "Title screen for video">
 </iframe> -->
+
+```{warning}
+Be aware that task 2 and 3 evaluations often take the full three days. Therefore, if you are approaching the end of your term, don't wait on task 2 to start task 3 and submit task 3 early enough to have it returned, revised, and resubmitted.
+```
