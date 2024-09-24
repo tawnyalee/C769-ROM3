@@ -9,10 +9,9 @@ Write your proposal following **Task 2: The Proposal template**:
 
 > [Task 2: The Proposal Template](https://1drv.ms/w/s!Av4KQnJfiBxmiKN4CBSdGCJ-JmrdLA?e=BeAQhU)
 
-To gauge the level of detail evaluators typically expect, see the [task 2 examples](resources:examples) - passing, albeit not
-great, projects.
+To gauge the level of detail evaluators typically expect, see the [task 2 examples](resources:examples).
 
-Not sure where to start? Often, people start with the summary, A1-A3, but it might be easier to summarize a completed paper. Consider doing these last. Section F2 is a great place to begin. It can be written in bullet-point format and inherently outlines critical elements of the entire paper.
+Not sure where to start? Students often begin with the summary, A1-A3, but it might be easier to summarize a completed paper. Consider doing these last. Section F2 is a great place to begin. It can be written in bullet-point format and inherently outlines critical elements of the entire paper.
 
 <!-- <div class = "tasklist">
 
@@ -49,7 +48,7 @@ Not sure where to start? Often, people start with the summary, A1-A3, but it mig
 </div> -->
 
 :::{tip}
-Sections are assessed independently against the rubric requirements, i.e., when evaluating a section, the evaluator will check for the fulfillment of the requirements within that section. They *don't* assess writing style. You can (and sometimes must) reuse content from other areas as needed. It's not about writing something fun to read -it's about demonstrating that the requirements are met.
+Sections are assessed independently against the rubric requirements, i.e., when evaluating a section, the evaluator will check for fulfilling the requirements within that section. They *don't* assess writing style. You can (and sometimes must) reuse content from other areas as needed. It's not about writing something fun to read but demonstrating you've met the requirements.
 :::
 
 (task2:A)=
@@ -58,7 +57,7 @@ Sections are assessed independently against the rubric requirements, i.e., when 
 :::{sidebar} Watch
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=db8381ab-1659-49e9-b5fc-ebb844c66944&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="A1, A2, anb A3: The Proposal" style="border: 1px solid #464646;" class="center" allowfullscreen allow="autoplay" alt= "Title screen for video.">
 </iframe>
-This video was created for ROM2 but is still relevant for ROM3.
+We created this video for ROM2, but it is still relevant for ROM3.
 :::
 
 The Proposal Overview has three parts:
@@ -67,9 +66,9 @@ The Proposal Overview has three parts:
 2. The IT Solution (A2)
 3. The Implementation Plan (A3 and A3a)
 
-It is not assessed, but you are writing for an uninformed reader -the client needing your expertise. Explain what's wrong with their situation, why your solution is the fix, and how you'll implement that solution.
+Evaluators will not assess your writing style, but you should write for an uninformed reader -the client needing your expertise. Explain what's wrong with their situation, why your solution is the fix, and how you'll implement it.
 
-Keeping an uninformed reader in mind may help you understand why the Proposal Overview could extend for several pages. Imagine explaining the project to a non-technical friend. Adopting more accessible language requires explaining terms and concepts customarily taken for granted, which creates content. Also, WGU evaluators need to understand the problem at hand, the organizational environment in which it exists, what might or might not work as a solution, and how you will implement the solution. These sections introduce them to your project and provide the context by which they assess other areas.
+Keeping an uninformed reader in mind may help you understand why the Proposal Overview could extend to several pages. Imagine explaining the project to a non-technical friend. Adopting more accessible language requires explaining terms and concepts customarily taken for granted, which creates content. Also, WGU evaluators need to understand the problem at hand, the organizational environment in which it exists, what might or might not work as a solution, and how you will implement the solution. These sections introduce them to your project and provide the context by which they assess other areas.
 
 ```{tip}
 - Write these sections last to ensure your overview accurately summarizes your project. 
@@ -82,7 +81,7 @@ Summarize the IT problem. Provide context to understand the problem, e.g., detai
 
 ### A2: IT Solution
 
-Summarize the solution and why the solution will fix the problem from A1. 
+Summarize the solution and why the solution will fix the problem from A1.
 
 ### A3 and A3a: Implementation Plan and Justification of Plan
 
@@ -90,7 +89,7 @@ Summarize the implemetation plan detailed in section E (Methodology). The summar
 
 - Outline specific steps
 - Identify who will implement each step
-- Justify why the plan is appropiate (A3a), e.g., why do this plan instead of another one? 
+- Justify why the plan is appropiate (A3a), e.g., why do this plan instead of another one?
 
 (task2:B)=
 
@@ -99,13 +98,12 @@ Summarize the implemetation plan detailed in section E (Methodology). The summar
 :::{sidebar} Watch
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=84af12b9-96da-41dc-b9ee-ac400141ba80&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="B and B1: Other Works" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class="center" alt= "Title screen for video.">
 </iframe>
-This video was created for ROM2 but is still relevant for ROM3.
+We created this video for ROM2, but it is still relevant for ROM3.
 :::
 
+Think of this section as a literature review where you summarize a work (part B) and then relate it to your project (B1). The works *only need to connect to an aspect of your project*; they don't need to align with your project entirely. You use anything an industry professional created, e.g., online articles, videos, vendor documentation, whitepapers, etc. Most importantly, you must have **four** different works cited with an in-text citation, e.g., (Smith, 2021).
 
-Think of this section as a literature review where you summarize a work (part B) and then relate it to your project (B1). The works *only need to connect to an aspect of your project*; they don't need to align with your project entirely. You use anything an industry professional created, e.g., online articles, videos, vendor documentation, whitepapers, etc. Most importantly, you must have **four** different works cited with an intext citation, e.g., (Smith, 2021).
-
-1. **Summarize the work.** tell your reader what's the work is about; there is no need to offer an opinion or analyze it -simply summarize the content. We recommend 1-2 paragraphs per work.
+1. **Summarize the work.** tell your reader what the work is about; there is no need to offer an opinion or analyze it -simply summarize the content. We recommend 1-2 paragraphs per work.
 2. **Include an in-text citation,** e.g., (Author, year) for [APA guidelines](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles/author-date). Consider using a [referencing tool](resources:general:grammar:sources).
 3. **Relate the work to your project.** Following the summary, describe how the work expands the context of the problem or supports the implementation solution. We recommend at least one paragraph per work.
 
@@ -115,7 +113,7 @@ Think of this section as a literature review where you summarize a work (part B)
 :::{tip}
 Stuck? Return to this section later. You will likely collect sources while conducting research for other sections. Hang on to any extras; you'll need *three different* works for Task 3.
 
-The works are not expected to be a one-to-one match of your project. What's accepted is very broad.
+The work is not expected to be a one-to-one match for your project. What's accepted is very broad.
 :::
 
 :::{tip}
@@ -127,31 +125,33 @@ and then add WGU and other libraries.
 
 ## C: Project Rationale
 
-The **Project Rationale** provides a comprehensive picture of *why* the project is needed. Describe the business, technical, and/or user needs. Internal and external environmental factors might also be included.
+The **Project Rationale** provides a comprehensive picture of *why* the project is needed and *why* it is feasible.
+
+To rationalize the need, describe the business, technical, user needs, and internal or external environmental factors. Consider including an example illustrating how the project will help. To rationalize the project's feasibility, consider factors such as time, resources, and expertise.
 
 ## D: Current Project Environment
 
-For this section, do the following:  
+For this section, do the following:  
 
 - Discuss how the solution from A2 will improve the client's approach to achieving its goals (strategy).
-- Discuss how the solution from A2 will align with the client's beliefs and values (culture). This can explain how the solution does not contradict the client's culture.
+- Discuss how the solution from A2 will align with (or at least not contradict) the client's beliefs and values (culture). 
 
-‘Environment' is an umbrella which includes 'strategy' and 'culture.'
+'Environment' is an umbrella which includes 'strategy' and 'culture.'
 
 ## E: Methodology
 
 :::{sidebar} Watch
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e3d9d9d5-03c9-425f-abff-ac4c015c1410&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="E and F: Methodology & Goals" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class ="center" alt= "Title screen for the video.">
 </iframe>
-This video was made for ROM2, but is relevant to this version, ROM3.
+We created this video for ROM2, but it is relevant to this version, ROM3.
 :::
 
 In this section, you must do the following:
 
-1. Identify a "standard" methodology used to plan the project, e.g., ADDIE or SDLC.
-2. Describe the project steps to be completed in each phase of the methodology, e.g., analysis, design, etc.
+1. Identify a "standard" methodology for project planning, e.g., ADDIE or SDLC.
+2. Describe the planned project steps in each phase of the methodology, e.g., analysis, design, etc.
 
-Step 2 provides a detailed implementation plan of what is outlined in section A2. If using a less-known methodology, relate it to a "standard" one.
+Step 2 provides a detailed implementation plan, as outlined in section A2. If using a less-known methodology, relate it to a "standard" one.
 
 (task2:F)=
 
@@ -162,7 +162,7 @@ This section has two parts, F1 and F2.
 - F1. Provide a table outlining project goals, objectives, and deliverables.
 - F2. Separate from the table, describe each listed goal and objective.
 
-At minimum, there should be one goal, each goal should have two objectives, and each objective have one deliverable. Here's an example of what this might look like:
+At a minimum, there should be one goal, each goal should have two objectives, and each objective has one deliverable. Here's an example of what this might look like:
 
 <blockquote>
    <style type="text/css">
@@ -263,14 +263,14 @@ At minimum, there should be one goal, each goal should have two objectives, and 
 </blockquote>
    </p>
 
-**Goals** and **objectives** are very similar. Goals are broader, defining the end you are trying to achieve (e.g., improving customer service). You need at least one goal. Objectives are more specific, often measurable steps supporting the goal (e.g., real-time inventory updates for customers). Goals and objectives can be considered high-level and mid-management tasks, respectively. **Deliverables** are tangible tasks supporting the objectives (e.g., an inventory status screen reporting real-time inventory to customers). 
+**Goals** and **objectives** are very similar. Goals are broader, defining the end you are trying to achieve (e.g., improving customer service). You need at least one goal. Objectives are more specific, often measurable steps supporting the goal (e.g., real-time inventory updates for customers). Goals and objectives can be considered high-level and mid-management tasks, respectively. **Deliverables** are tangible tasks supporting the objectives (e.g., an inventory status screen reporting real-time inventory to customers).
 
 ## G: Project Timeline with Milestones
 
 :::{sidebar} Watch
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=a1daad4d-43f7-40e5-86be-ab7fe69ab76b&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="G and H: Timeline & Outcome" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class ="center" alt= "Title screen for the video.">
 </iframe>
-This video was made for ROM2, but is relevant to ROM3.
+We created this video for ROM2, but it is relevant to ROM3.
 :::
 
 Create a table providing the *Duration*, *Projected start date*, and *Anticipated end date* for each milestone and deliverable. No additional information is needed.
@@ -282,22 +282,22 @@ Create a table providing the *Duration*, *Projected start date*, and *Anticipate
 |$\vdots$ |$\vdots$ |$\vdots$ |$\vdots$ |
 
 ```{note}
-*All* dates must be in the future. Task 2 is a proposal. Write as if you are trying to convince the client to adopt your plan. Even if based on an already completed project, you should write task 2 as though it's yet to be done.
+*All* dates must be in the future. Task 2 is a proposal. Write as if you are trying to convince the client to adopt your plan. Even if based on an already completed project, write Task 2 as a yet-to-be-completed project
 ```
 
 (task2:H)=
 
 ## H: Outcome
 
-Provide objective, measurable criteria for success. You need specific details so that the conclusion report, task 3, can comparatively be used to show the project was a success. Furthermore, you must describe how data will be collected and measured to support the criteria. Include the following:
+Provide objective, measurable criteria for success. You need specific details so that the conclusion report, task 3, can comparatively be used to show the project was a success. Furthermore, describe how data will be collected and measured to support the criteria. Include the following:
 
-- A metric for determining sucess.
+- A metric for determining success.
 - A description of how the metric's data will be collected.
-- A description of the the metirc's data will be measured.  
+- A description of how the metrics data will be measured.  
 
 Time-based metrics work best, for example:
 
->...This project will be considered a success when the wireless network maintains has maintained 90% uptime a week for a month and when 75% of new member and loan documentation is processed over the credit union.
+>...This project will be considered a success when the wireless network maintains 90% uptime a week for a month and 75% of new member and loan documentation is processed through the credit union.
 
 (task2:grammar)=
 
@@ -325,33 +325,33 @@ Get the best help from the [WGU Academic Coaching Center](resources:general:gram
 
 ### I've completed task 2. Should I send it to my course instructor for review?
 
-If you have specific questions or concerns -yes. However, in most cases, it's best just to submit. What suffices as “sufficient detail” is highly subjective. We can always tell you to add more, but if you've done your best to fulfill the requirements, submit it and let them tell you which (if any) parts need to be rewritten. At best, it passes; at worst, we address the issues cited by the evaluator -and then it passes. Responding to the more narrow focus of the evaluator's comments is generally easier than overworking the entire project.
+If you have specific questions or concerns, then yes. However, in most cases, it's best to submit. What suffices as "sufficient detail" is highly subjective. We can always tell you to add more, but if you've done your best to fulfill the requirements, submit it and let them tell you which (if any) parts need to be rewritten. At best, it passes; at worst, we address the issues cited by the evaluator -and then it passes. Responding to the more narrow focus of the evaluator's comments is generally easier than overworking the entire project.
 
-You have *unlimited* submissions but limited time. And, typically this is the best and most efficient approach.
+You have *unlimited* submissions but limited time. Typically, this is the best and most efficient approach.
 
-### I see some suggestions about writing lengths. Is there a requried number of pages?
+### I see some suggestions about writing lengths. Is there a required number of pages?
 
-No. Those are just suggestions. The individual evaluator determines what qualifies as "sufficient detail" and this judgement will vary depending on your project and writing style. If you feel you've met the requirements, simply move on to the next section. Upon submission, it will pass, or they will request more details.
+No. Those are just suggestions. The individual evaluator determines what qualifies as "sufficient detail," and this judgment will vary depending on your project and writing style. If you feel the requirements are met, move on to the next section. Upon submission, it will pass, or they will request more details.
 
 ### How many submission attempts do I have?
 
-You have unlimited submissions (as with all WGU performance assessments). Furthermore, a project requiring multiple submissions is not precluded from being given an excellence award. However, do attempt to fully meet *each* requirement as submissions falling significantly short of the minimum requirements may be *locked* from further submissions without instructor approval. Moreover, such submissions do not receive meaningful evaluator comments.
+You have unlimited submissions (as with all WGU performance assessments). Furthermore, a project requiring multiple submissions is not precluded from being given an excellence award. However, do attempt to fully meet *each* requirement, as submissions falling significantly short of the minimum requirements may be *locked* from further submissions without instructor approval. Moreover, such submissions do not receive meaningful evaluator comments.
 
 ### I can't find sources for section B, *Other Works*. What can I do?
 
-You are likely over interpreting what's required. Rarely are submissions sent back because cited works are unsuitable. You can use any citable work created by a professional which can be *related* to your project -it does not need to align with your project entirely. For example, a cloud migration project might include articles about AWS, security advantages, cost advantages, etc.
+You are likely overinterpreting what's required. Rarely are submissions sent back because cited works are unsuitable. You can use any citable work created by a professional that can be *related* to your project -it does not need to align with your project entirely. For example, a cloud migration project might include articles about AWS, security advantages, cost advantages, etc.
 
 ### My task was returned for "In-text citations could not be found..."
 
 **My task two was returned for *sources* stating:**
-> "In-text citations could not be found for portions of the task that have been quoted or paraphrased... "
+> "In-text citations could not be found for portions of the task that have been quoted or paraphrased..."
 **What does this comment mean?**
 
 This comment indicates they could not find a matching in-text citation for every source on your reference list. Check that each reference has a match following an approved writing style, e.g., (Author, year), and remove any references without matches. Use a [referencing tool](resources:general:grammar:sources) to create, manage references, and avoid such errors. Follow the in-text citations and the reference page format of the [tasks 2 and 3 examples](resources:examples).
 
 ### What if I start writing task 2 and want to change things? Do I need to resubmit task 1?
 
-No. Minor changes from task 1 to task 2 are expected and allowed *without updating the approval form*. Evaluators will not rigorously compare Tasks 1 and 2. Task 2 is where the majority of your work will be, and even with complete topic changes, you might at most need to revise the approval form (if at all). So never let Task 1 dictate what you do in Task 2. However, deviating significantly from what was approved could put you at risk of completing a project unable to meet the requirements. So while small changes do not need review, substantial changes should be discussed with your assigned course instructor.
+No. Minor changes from task 1 to task 2 are expected and allowed *without updating the approval form*. Evaluators will not rigorously compare Tasks 1 and 2. Task 2 is where the majority of your work will be, and even with complete topic changes, you might at most need to revise the approval form (if at all). So, never let Task 1 dictate what you do in Task 2. However, deviating significantly from what was approved could put you at risk of completing a project that cannot meet the requirements. So, while minor changes do not need review, discuss significant changes with your assigned course instructor.
 
 ### Are the appendices required?
 
