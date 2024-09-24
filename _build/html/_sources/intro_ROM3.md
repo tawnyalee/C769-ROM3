@@ -91,14 +91,14 @@ First, understand the project's requirements. What they are -and what they aren'
 
 To meet the requirements of Tasks 2 and 3, your topic (Task 1) must have the following:
 
-1. A *specific* client with an IT need or problem (you can fabricate a client whose problem needs your chosen solution.)
+1. A *specific* client with an IT need or problem (you can fabricate a client who needs your preferred solution.)
 2. The implementation of a [hard IT deliverable](task1:faq:hard) that addresses the client's need or problem.
 
-Your topic *should not* describe a framework for a general approach, nor only provide an assessment of issues or advice on improvements. Specific hard IT deliverables (hardware or software changes) must be included as part of your project in Task 2 (the proposal) and Task 3 (the conclusion report). For many projects, such as security projects, plans for specific hardware/software updates should necessarily follow an investigation. In these cases, assume that the investigation has been conducted when writing Tasks 1 and 2.
+Your topic *should not* describe a framework for a general approach, nor only provide an assessment of issues or advice on improvements. Specific hard IT deliverables (hardware or software changes) must be included in Task 2 (the proposal) and Task 3 (the conclusion report). For many projects, such as security projects, plans for specific hardware/software updates often follow an investigation. In these cases, assume when writing Tasks 2 and 3 that the investigation has been done and the issues to be fixed are known.
 
-:::{tip}
+<!-- :::{tip}
 Nearing the end of your term? See the [pacing guide and the Accelerated Plan video](resources:general:pacing) and consider signing up for the [5 days to Finish C769 Task 2 Challenge Cohort](resources:general:cohort:5days).
-:::
+::: -->
 
 <!-- TODO: add "what to do and NOT to do section. Here and in task 1(?)
  -->

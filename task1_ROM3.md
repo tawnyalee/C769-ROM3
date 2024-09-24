@@ -15,9 +15,9 @@ Students starting C769 after 8/25/2024 will be automatically enrolled in the new
 The approval form ensures you start in the right direction before investing time and effort into task 2. Evaluators look for our ([instructors'](ci_page)) signature, and we look for the following:
 
 1. A *specific* client and problem (you can fabricate a client whose problem needs your chosen solution.)
-2. A plan to implement specific at least one [hard IT deliverable](task1:faq:hard) that helps solve that problem.
+2. A plan to implement at least one [hard IT deliverable](task1:faq:hard) that helps solve that problem.
 
-Propose a project that clearly includes the implementation of an IT solution (e.g. hardware, software, networks, etc.) rather than a project that only involves the development of a plan or abstract framework. You must describe the specific hard IT delierable(s) to be implmented. If the topic requires an initial assessment, as with many security projects, assume the evaluation has already been conducted so that the approval form (Task 1) and proposal (Task 2) can focus on implementing the solution.
+Propose a project that clearly includes implementing an IT solution (e.g., hardware, software, networks, etc.) rather than a project that only involves the development of a plan or abstract framework. You must describe the specific hard IT deliverable (s) to be implemented. If the topic requires an initial assessment, as with many security projects, assume the evaluation has already concluded so that the approval form (Task 1) and proposal (Task 2) can focus on implementing the solution.
 
 ```{margin} What is a hard IT deliverable?
 A  *hard IT deliverable* is a physical or digital technological improvement to the client's environment. Examples include any hardware or software installation or updates. *Soft deliverables*, e.g., training, policies, evaluation, etc., can (and often should) be included but cannot meet the requirements alone. 
@@ -26,7 +26,7 @@ A  *hard IT deliverable* is a physical or digital technological improvement to t
 ```{admonition} Do:
 :class: tip
 - Name a client and describe an IT need or problem.
-- Provide specifi IT improvments addressing the client's need or problem.
+- Provide specific IT improvements addressing the client's need or problem.
 - Email the completed approval form to your assigned course instructor for review and signature.
 ```
 
@@ -38,16 +38,16 @@ A  *hard IT deliverable* is a physical or digital technological improvement to t
 
 Some examples of acceptable topics:
 
-- Multi-factor authentication (MFA) implementaion
+- Multi-factor authentication (MFA) implementation
 - Security information and event management (SIEM) implementation
 - Network hardware or software installation/upgrades
 - Installation of a functional software system (scheduling, networking, point-of-sale, financial, etc.)
-- Cloud migratrion or data backups
+- Cloud migration or data backups
 - Building a website
 
 ### Examples
 
-The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.com/sites/capstonearchives/excellence/Pages/UndergraduateInformation.aspx) includes a wide range of completed projects to review. However, keep in mind that they all are, by definition, *above and beyond* the requirements. Therefore, do not use these as examples of what's needed to meet the requirements.
+The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.com/sites/capstonearchives/excellence/Pages/UndergraduateInformation.aspx) includes a wide range of completed projects to review. However, remember that they all are, by definition, *above and beyond* the requirements. Therefore, do not use these as examples of what's needed to meet the requirements.
 
 For a more down-to-earth example of what's required, see these approval form examples:
 
@@ -86,7 +86,7 @@ If you see `Unable to render code block` when attempting to view the examples, o
 
 **Listen:** IT Audio Series podcast [Choosing Your Topic](https://d2y36twrtb17ty.cloudfront.net/sessions/09c3d32b-1567-4636-88d6-ad5f01616619/3183eabf-4239-4e4a-ae20-ad5f01616620-8792ef88-6d24-43f6-9fe9-ad5f01619cc7.mp4?invocationId=0275eb54-33e0-eb11-8284-12c206d2fd2b); view the [transcript](https://www.wgu.edu/content/dam/western-governors/documents/it/audio-series/ChoosingYourTopic.docx).
 
-Though still relevant, this video and podcast were created for ROM2 -not ROM3.
+Though still relevant, we created this video for ROM2 -not ROM3.
 
 (task1:topicapproval)=
 
@@ -99,7 +99,7 @@ Once you've decided on a topic, complete the approval form following the templat
 > 
 > [Topic Approval Form Template odt format](https://1drv.ms/w/s!Av4KQnJfiBxmiIkGNA-i9xb5h9Syfg?e=0Wie3B)
 
-Include a rough outline of your client, their problem(s), and your IT plan to fix it. **Email the completed form to** **[your course instructor](ci_page)** who will either approve it with their signature or provide feedback.
+Include a rough outline of your client, their problem(s), and your IT plan to fix it. **Email the completed form to** **[your course instructor](ci_page)**, who will either approve it with their signature or provide feedback.
 
 ```{note}
 - The topic approval form must be *signed by a* *[C769 course instructor](ci_page)*. Forms without a signature are automatically returned without further review. 
@@ -141,15 +141,15 @@ In most cases, obtaining authorization can be avoided by fabricating or masking 
 
 ### Do I need to set up an appointment to get approval?
 
-No. Usually, students email the approval form to their instructor. We then sign the form or follow up with questions. However, if you have questions about the requirements or difficulty choosing a topic, you are encouraged to set up an appointment with [your course instructor](ci_page). A 15-30 minute phone call can address most questions or concerns. If you do set up an appointment to discuss your approval form, please email it to the instructor before the appointment.
+No. Usually, students email the approval form to their instructor. We then sign the form or follow up with questions. However, if you have questions about the requirements or difficulty choosing a topic, you are encouraged to schedule an appointment with [your course instructor](ci_page). A 15-30 minute phone call can address most questions or concerns. If you schedule an appointment to discuss your approval form, please email it to the instructor before the appointment.
 
 ### What if I start writing task 2 and want to change things? Do I need to resubmit task 1?
 
-No. Minor changes from task 1 to task 2 are expected and allowed *without updating the approval form*. Evaluators will not rigorously compare tasks 1 and 2. Task 2 is where the work is, and even with complete topic changes at most, you might need to revise the approval form (if at all). So never let task 1 dictate what you do in task 2. However, deviating significantly from what was approved could put you at risk of completing a project not meeting the requirements. So while small changes do not need review, substantial changes should be discussed with your assigned course instructor.
+No. Minor changes from task 1 to task 2 are expected and allowed *without updating the approval form*. Evaluators will not rigorously compare tasks 1 and 2. Task 2 is where the work is, and even with complete topic changes at most, you might need to revise the approval form (if at all). So, never let task 1 dictate what you do in task 2. However, deviating significantly from what was approved could put you at risk of completing a project that does not meet the requirements. So, while small changes do not need review, discuss substantial changes with your assigned course instructor.
 
 ### Can I use projects from other WGU courses?
 
-Yes! You can use any of your work or academic projects (at WGU or elsewhere) provided no proprietary information is used without permission. Don't worry about self-plagiarism, as the similarity check will identify and ignore it. Just as in reusing work projects, expect to modify and remold past academic assignments to meet the rubric requirements.
+Yes! You can use any of your work or academic projects (at WGU or elsewhere), provided you do not use proprietary information without permission. Don't worry about self-plagiarism; the similarity check will identify and ignore it. As in reusing work projects, expect to modify and remold past academic assignments to meet the rubric requirements.
 
 ### How do I add my "signature" to the forms?
 
@@ -157,7 +157,9 @@ You can simply type in your name, use a "fancy" font, or insert an image of your
 
 ### What are the common reasons for task 1 being returned?
 
-1. No instructor signature on the approval form. You need to send it to us and get a signature *before* submitting it. Both boxes or no boxes are correctly marked on the waiver form. *Mark one and only one box*.
+1. No instructor signature on the approval form. You need to send it to us and get a signature *before* submitting it. 
+
+2. Both boxes or no boxes are marked on the waiver form. *Mark one and only one box*.
 
 Note, the waiver form is **only** required if your project includes restricted information. Task 1 *B: Capstone Release Form*, passes automatically if no waiver form is submitted, i.e., the waiver is only needed if it's needed.
 
@@ -173,15 +175,16 @@ It is a physical or digital technological addition or improvement to the client'
 
 ### Can I get the "welcome email?"
 
-Yes, contact your assigned course instructor or see the sample [welcome email](resources:general:welcomeemail) in the [C769 Resources section](resources).
+Yes, contact your assigned course instructor.
+<!-- or see the sample [welcome email](resources:general:welcomeemail) in the [C769 Resources section](resources). -->
 
 ### Are there any cohorts? I don't see where to sign-up on my COS page.
 
-Yes, cohorts run regularly. Enrollment typically opens on Mondays and closes Wednesdays. You can find the link to sign-up under the *Explore Cohort* section on your C769 COS page. If the section is not visible, either enrollment has closed or the cohort will not be available that week. See [Webinars and Cohorts](resources:cohort) for more details.
+Yes, cohorts run regularly. Enrollment typically opens on Mondays and closes on Wednesdays. You can find the link to sign up under the *Explore Cohort* section on your C769 COS page. If the section is not visible, either enrollment has closed, or the cohort will not be available that week. See [Webinars and Cohorts](resources:cohort).
 
 ### Should I check the IRB statement on the approval form?
 
-You only need to apply for IRB review if you are collecting data involving human participants (this is rarely needed). Otherwise, your project is in IRB compliance. For more details see [WGU IRB and Human Subject Protections FAQ](https://cm.wgu.edu/t5/Frequently-Asked-Questions/WGU-IRB-and-Human-Subject-Protections-FAQ/ta-p/2002).
+You only need to apply for IRB review if you are collecting data involving human participants (this is rarely needed). Otherwise, your project is in IRB compliance. For more details, see [WGU IRB and Human Subject Protections FAQ](https://cm.wgu.edu/t5/Frequently-Asked-Questions/WGU-IRB-and-Human-Subject-Protections-FAQ/ta-p/2002).
 
 ## Questions, comments, or suggestions?
 

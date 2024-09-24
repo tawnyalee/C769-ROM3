@@ -28,11 +28,11 @@ To gauge the level of detail evaluators typically expect, review these [task 3 e
 **Listen**
 IT Audio Series podcast [Converting Task 2 to Task 3](https://d2y36twrtb17ty.cloudfront.net/sessions/a96a8bee-7aef-4777-8964-ac9400174e42/0cb7de42-4057-45d6-9282-ac9400174e5b-436eb412-8cec-4cfb-992b-ac9400178e7b.mp4?invocationId=aae81915-bee9-ed11-828e-12b1cb861383); view the [transcript](https://www.wgu.edu/content/dam/western-governors/documents/it/audio-series/ConvertingTask2toTask3.docx).
     :::{Warning}
-        This video and podcast were created for version ROM2. See the ROM3 changes below.
+        We creaetd this video and podcast for version ROM2. See the ROM3 changes below.
     :::
 ::::
 
-*Most* of task 3 will build on Task 2, updating it from the future to the past tense. As such, task 3 should be similar in length and detail to task 2. Review the [task 3 examples](resources:examples) to understand what evaluators expect. Differences between tasks 2 and 3 are included in the [task 3 template](task3:template) and covered in the sections below, but here is an overview:
+*Most* of Task 3 will build on Task 2, updating it from the future to the past tense. So typically, Task 3 will be similar in length and detail to Task 2. Review the [task 3 examples](resources:examples) to understand what evaluators expect. Differences between tasks 2 and 3 are included in the [task 3 template](task3:template) and covered in the sections below, but here is an overview:
 
 <div class = "tasklist">
 
@@ -40,24 +40,24 @@ IT Audio Series podcast [Converting Task 2 to Task 3](https://d2y36twrtb17ty.clo
    
    <input type="checkbox"> **B and B.1:** It is the same as Task 2, section B, except you need three works not referenced in Task 2.
    
-   <input type="checkbox"> **C:** Update Task 2 section D, to discuss the clients strategy OR culture was advanced by your project.
+   <input type="checkbox"> **C:** Update Task 2 section D to discuss how your project advanced the client's strategy OR culture.
 
    <input type="checkbox"> **D:** Update Task 2 section E, to the past tense.
-
-   <input type="checkbox"> **E:** Choose *one* goal from Task 2 section F,  then summarize the goal and how it's objectives where met or not met.
+   
+   <input type="checkbox"> **E:** Choose *one* goal from Task 2 section F,  then summarize the goal and how its objectives were met or not met.
 
    <input type="checkbox"> **F:** Update the timeline from Task 2 and explain any changes.
 
    <input type="checkbox"> **G:** *New section*. Explain any differences between Task 2 and Task 3.
 
-   <input type="checkbox"> **H  and H1:** Discuss the results, present and future impact, and use the metric(s) from Task 2 *Outcomes* to expalin the project's success.
+   <input type="checkbox"> **H  and H1:** Discuss the results, the present and future impact, and use the metric(s) from Task 2 *Outcomes* to explain the project's success.
 
    <input type="checkbox"> **I** *New Section*. Explain and include three *examples* of artifacts.  
 
 </div>
 
 ```{warning}
-Submissions with missing sections are automatically returned. If everything went as planned, explain why. The narrative following the *Timeline* and an *Unanticapted Requirements* section is still required.   
+Submissions with missing sections are automatically returned. If everything went as planned, explain why. The narrative following the *Timeline* and an *Unanticipated Requirements* section is still required.
 ```
 
 (task3:A)=
