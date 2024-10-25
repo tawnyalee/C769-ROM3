@@ -81,7 +81,7 @@ Task 3 details {fas}`arrow-right`
 
 First, understand the project's requirements. What they are -and what they aren't. Watch the following video:
 <iframe
-    src = "https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05211a31-2088-4fe1-919f-b1ff0132a6c4&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all"
+    src = "https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=05211a31-2088-4fe1-919f-b1ff0132a6c4&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all"
     title="C769 Overview"
     width="640px"
     height="360px"
@@ -90,6 +90,8 @@ First, understand the project's requirements. What they are -and what they aren'
     alt= "Title screen for the welcome video."
 >
 </iframe>
+
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=4dcb0ca0-cf42-414a-ac8c-b1f7010adabb&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="C769 ROM3 Overview" height="360px" width="640px" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="C769_CapstoneReport_default" alt= "Title screen for the welcome video."></iframe>
 
 To meet the requirements of Tasks 2 and 3, your topic (Task 1) must have the following:
 
