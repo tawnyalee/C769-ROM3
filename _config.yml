@@ -35,13 +35,13 @@ bibtex_bibfiles:
 sphinx:
   config:
     bibtex_reference_style: author_year
-    html_baseurl: https://ashejim.github.io/C769
+    html_baseurl: https://ashejim.github.io/C769-ROM3
   extra_extensions:
     - sphinx_sitemap
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/ashejim/C769  # Online location of your book
+  url: https://github.com/ashejim/C769-ROM3  # Online location of your book
   branch: main  # Which branch of the repository should be used when creating links (optional)
   # path_to_book: docs  # Optional path to your book, relative to the repository root
 
