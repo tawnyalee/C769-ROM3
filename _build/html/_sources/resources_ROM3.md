@@ -112,7 +112,7 @@ Keep an eye out for the *5 Days to Finish Task 2 Challenge* Cohort. You will usu
 
 Email Candice Allen [ugcapstoneit@wgu.edu](mailto:ugcapstoneit@wgu.edu?cc=candice.allen@wgu.edu&subject=C769%20capstone%20cohort&body=Your%20name%20and%20question%20here.%20We%20can%20only%20respond%20to%20messages%20from%20a%20valid%20WGU%20email%20address.%20%0A%0ADegree%20program%3A%20%0AProgram%20Mentor%3A%20%0A) for more information or questions.
 
-- [Webinar recording: C769 cohort five days to finish!](https://wgu.webex.com/recordingservice/sites/wgu/recording/5efb72e688a6103cbfafc67c7f009877/playback) (*Note: this recording is for ROM*)
+- [Webinar recording: C769 (ROM3) cohort five days to finish!](https://app.vidcast.io/share/9e63bf5e-f441-41c2-9a68-52e63f5f7be3) (*Note: this recording is for ROM3)
 
 <!-- not sure why this doesn't work. appears to be a webex issue
 <iframe src="https://wgu.webex.com/recordingservice/sites/wgu/recording/5efb72e688a6103cbfafc67c7f009877/playback" title="" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" alt= "Title screen for video: C769 cohort five days to finish!">
