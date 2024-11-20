@@ -55,7 +55,7 @@ Sections are assessed independently against the rubric requirements, i.e., when 
 ## A: Proposal Overview
 
 :::{sidebar} Watch
-<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=db8381ab-1659-49e9-b5fc-ebb844c66944&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="A1, A2, anb A3: The Proposal" style="border: 1px solid #464646;" class="center" allowfullscreen allow="autoplay" alt= "Title screen for video.">
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=2e0255f6-cce4-4f67-ae85-b1f7010acea8&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="A1, A2, anb A3: The Proposal" style="border: 1px solid #464646;" class="center" allowfullscreen allow="autoplay" alt= "Title screen for video.">
 </iframe>
 We created this video for ROM2, but it is still relevant for ROM3.
 :::
