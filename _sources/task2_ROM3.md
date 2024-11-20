@@ -96,7 +96,7 @@ Summarize the implemetation plan detailed in section E (Methodology). The summar
 ## B and B1: Review of Other Work & Works Informing Design
 
 :::{sidebar} Watch
-<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=84af12b9-96da-41dc-b9ee-ac400141ba80&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="B and B1: Other Works" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class="center" alt= "Title screen for video.">
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=58126a92-852e-4167-9041-b1f7010aceb1&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="B and B1: Other Works" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class="center" alt= "Title screen for video.">
 </iframe>
 We created this video for ROM2, but it is still relevant for ROM3.
 :::
@@ -141,7 +141,7 @@ For this section, do the following:  
 ## E: Methodology
 
 :::{sidebar} Watch
-<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e3d9d9d5-03c9-425f-abff-ac4c015c1410&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="E and F: Methodology & Goals" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class ="center" alt= "Title screen for the video.">
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=9b321f2f-398a-41ee-b3b3-ad9e00f0bdfd&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="E and F: Methodology & Goals" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class ="center" alt= "Title screen for the video.">
 </iframe>
 We created this video for ROM2, but it is relevant to this version, ROM3.
 :::
@@ -268,9 +268,9 @@ At a minimum, there should be one goal, each goal should have two objectives, an
 ## G: Project Timeline with Milestones
 
 :::{sidebar} Watch
-<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=a1daad4d-43f7-40e5-86be-ab7fe69ab76b&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="G and H: Timeline & Outcome" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class ="center" alt= "Title screen for the video.">
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=03a125ec-f1f1-4ab3-8095-b1f7010ad90c&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="G and H: Timeline & Outcome" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class ="center" alt= "Title screen for the video.">
 </iframe>
-We created this video for ROM2, but it is relevant to ROM3.
+We created this video for ROM2. It is relevant to ROM3 except the 'Outcomes' segment.
 :::
 
 Create a table providing the *Duration*, *Projected start date*, and *Anticipated end date* for each milestone and deliverable. No additional information is needed.
