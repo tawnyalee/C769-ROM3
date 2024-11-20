@@ -270,7 +270,7 @@ At a minimum, there should be one goal, each goal should have two objectives, an
 :::{sidebar} Watch
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=03a125ec-f1f1-4ab3-8095-b1f7010ad90c&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="G and H: Timeline & Outcome" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class ="center" alt= "Title screen for the video.">
 </iframe>
-We created this video for ROM2. It is relevant to ROM3 except fo the 'Outcomes' segment.
+We created this video for ROM2. It is relevant to ROM3 except for the 'Outcomes' segment.
 :::
 
 Create a table providing the *Duration*, *Projected start date*, and *Anticipated end date* for each milestone and deliverable. No additional information is needed.
