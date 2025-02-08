@@ -11,7 +11,7 @@ Students starting C769 after 8/25/2024 will be automatically enrolled in the new
 
 (task3:template)=
 Write your conclusion report following the template, **Task 3: The Conclusion**:
-<!-- > [![Thumbnail imgae of Task 3: the Conclusion template](https://github.com/ashejim/C769/blob/main/url_images/t3_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EW62ZDmF6pdJo3_oD5CUoSUB3iblGUYaZ4qACCEchHueXA?e=JuNZfp) -->
+<!-- > [![Thumbnail imgae of Task 3: the Conclusion template](https://github.com/ashejim/C769-ROM3/blob/main/url_images/t3_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EW62ZDmF6pdJo3_oD5CUoSUB3iblGUYaZ4qACCEchHueXA?e=JuNZfp) -->
 > [Task 3 Template](https://1drv.ms/w/s!Av4KQnJfiBxmiLwH7AiFKJnNY4sqOQ?e=CrMZGa) `.docx` format
 > [Task 3 Template](https://1drv.ms/w/s!Av4KQnJfiBxmiL8tEpsUgYDjPJ6UIA?e=cOduyA) `.odt` format
 
@@ -165,14 +165,14 @@ Accepted items include the following:
 ```{tip}
 If reusing materials from an open source or actual project, mask any identifying information.
 
-<img src="https://github.com/ashejim/C769/blob/main/url_images/edit_deliverable.gif?raw=true" height="175px" alt= "An animated GIF showing how to modify images."/>
+<img src="https://github.com/ashejim/C769-ROM3/blob/main/url_images/edit_deliverable.gif?raw=true" height="175px" alt= "An animated GIF showing how to modify images."/>
 ```
 
 (task2:grammar)=
 
 ## J and K: Sources and Professional Communication
 
-It's easy to overlook them when focusing on content, but grammar, sources, and APA formatting are the most common reasons for rejected submissions! Check your grammar using [Grammarly.com](https://cm.wgu.edu/t5/Academic-Coaching-Center/I-Need-Help-with-Professional-Communication/ta-p/23355) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Get your [FREE Gramamrly education license](https://www.grammarly.com/edu/western-governors-university) through WGU.  
+It's easy to overlook them when focusing on content, but grammar, sources, and APA formatting are the most common reasons for rejected submissions! Check your grammar using [Grammarly.com](https://cm.wgu.edu/t5/Academic-Coaching-Center/I-Need-Help-with-Professional-Communication/ta-p/23355) ![grammarly_icon](https://github.com/ashejim/C769-ROM3/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Get your [FREE Gramamrly education license](https://www.grammarly.com/edu/western-governors-university) through WGU.  
 
 Style is not assessed (Grammarly marks these in blue, green, or purple), but even a few grammar errors (marked in red) can prevent competency in *Professional Communication*.
 

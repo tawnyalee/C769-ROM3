@@ -5,7 +5,7 @@ Students starting C769 after 8/25/2024 will be automatically enrolled in the new
 # Task 2
 
 Write your proposal following **Task 2: The Proposal template**:
-<!-- > [![Thumbnail image of the Task 2: the Proposal template](https://github.com/ashejim/C769/blob/main/url_images/t2_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA) -->
+<!-- > [![Thumbnail image of the Task 2: the Proposal template](https://github.com/ashejim/C769-ROM3/blob/main/url_images/t2_template_thumb.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EXQpEzeuOBhBnfhO15di-mQBXkj592jBHZ0ceFGcdVdvJA) -->
 
 > [Task 2: The Proposal Template](https://1drv.ms/w/s!Av4KQnJfiBxmiKN4CBSdGCJ-JmrdLA?e=BeAQhU)
 
@@ -120,7 +120,7 @@ The work is not expected to be a one-to-one match for your project. What's accep
 You can search [WGU's library](https://wgu.libguides.com/friendly.php?s=library) and other open-source libraries using [google.scholar.com](https://scholar.google.com/) Go to >'Google.scholar>setting>libraires>'
 and then add WGU and other libraries.
 
-<img src="https://github.com/ashejim/C769/blob/main/url_images/google_scholar_demo.gif?raw=true" height="300px" alt= "An aninmated GIF demonstrating how to use google.scholar.com"/>
+<img src="https://github.com/ashejim/C769-ROM3/blob/main/url_images/google_scholar_demo.gif?raw=true" height="300px" alt= "An aninmated GIF demonstrating how to use google.scholar.com"/>
 :::
 
 ## C: Project Rationale
@@ -303,7 +303,7 @@ Time-based metrics work best, for example:
 
 ## Professional Communication and Sources
 
-It's easy to overlook them when focusing on content, but grammar, sources, and APA formatting are the most common reasons for rejected submissions! Check your grammar using [Grammarly.com](https://cm.wgu.edu/t5/Academic-Coaching-Center/I-Need-Help-with-Professional-Communication/ta-p/23355) ![grammarly_icon](https://github.com/ashejim/C769/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Get your [FREE Gramamrly education license](https://www.grammarly.com/edu/western-governors-university) through WGU.  
+It's easy to overlook them when focusing on content, but grammar, sources, and APA formatting are the most common reasons for rejected submissions! Check your grammar using [Grammarly.com](https://cm.wgu.edu/t5/Academic-Coaching-Center/I-Need-Help-with-Professional-Communication/ta-p/23355) ![grammarly_icon](https://github.com/ashejim/C769-ROM3/blob/main/url_images/icon-grammarly.png?raw=true#icon) (it's what the evaluators use). Get your [FREE Gramamrly education license](https://www.grammarly.com/edu/western-governors-university) through WGU.  
 
 Style is not assessed (Grammarly marks these in blue, green, or purple), but even a few grammar errors (marked in red) can prevent competency in *Professional Communication*. For more details, see:
 

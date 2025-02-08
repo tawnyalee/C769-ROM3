@@ -66,7 +66,7 @@ For ROM3, the official COS learning resource (`GO TO COURSE MATERIAL`) has yet t
 
 The C769 course faculty *cannot* make changes to most WGU offical resources. This includes the COS page, leanrning resource, or rubrics. For feedback or suggestions on these items, please go to your C769 COS page and click `Course Feedback`.
 
-> <img src="https://github.com/ashejim/C769/blob/main/url_images/course_feedback_link.png?raw=true" height="175px" />
+> <img src="https://github.com/ashejim/C769-ROM3/blob/main/url_images/course_feedback_link.png?raw=true" height="175px" />
 
 This creates a ticket for our product development team.
 
