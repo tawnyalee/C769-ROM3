@@ -27,9 +27,15 @@ These examples are on-par with average passing tasks. Use them as a guideline fo
 ````
 ````{tab-item} Example set 2
 **Degree emphasis:** Information Technology
+<<<<<<< HEAD
 > Task 1: [Topic approval form example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task1_sample2_pass.pdf)  
 > Task 2: [Project proposal example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task2_sample2_pass.pdf)  
 > Task 3: [Project report example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task3_sample2_pass.pdf)
+=======
+> Task 1: [Topic approval form example](https://github.com/ashejim/C769/blob/main/resources/examples/C769_ROM3_Task1_sample2_pass.pdf)  
+> Task 2: [Project proposal example](https://github.com/ashejim/C769/blob/main/resources/examples/C769_ROM3_Task2_sample2_pass.pdf)  
+> Task 3: [Project report example](https://github.com/ashejim/C769/blob/main/resources/examples/C769_ROM3_Task3_sample2_pass.pdf)
+>>>>>>> b218f4594366425d14abb8b707af6f240ddd4b1e
 ````
 
 `````
