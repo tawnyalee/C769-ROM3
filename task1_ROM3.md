@@ -55,20 +55,20 @@ For a more down-to-earth example of what's required, see these approval form exa
 
 ````{tab-item} Example set 1
 **Degree emphasis:** Cybersecurity and information assurance
-> Task 1: [Topic approval form example](https://github.com/ashejim/C769/blob/main/resources/examples/C769_ROM3_Task1_sample1_pass.pdf)  
-> Task 2: [Project proposal example](https://github.com/ashejim/C769/blob/main/resources/examples/C769_ROM3_Task2_sample1_pass.pdf)  
-> Task 3: [Project report example](https://github.com/ashejim/C769/blob/main/resources/examples/C769_ROM3_Task3_sample1_pass.pdf)
+> Task 1: [Topic approval form example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task1_sample1_pass.pdf)  
+> Task 2: [Project proposal example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task2_sample1_pass.pdf)  
+> Task 3: [Project report example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task3_sample1_pass.pdf)
 ````
 ````{tab-item} Example set 2
 **Degree emphasis:** Information Technology
-> Task 1: [Topic approval form example](https://github.com/ashejim/C769/blob/main/resources/examples/C769_ROM3_Task1_sample2_pass.pdf)  
-> Task 2: [Project proposal example](https://github.com/ashejim/C769/blob/main/resources/examples/C769_ROM3_Task2_sample2_pass.pdf)  
-> Task 3: [Project report example](https://github.com/ashejim/C769/blob/main/resources/examples/C769_ROM3_Task3_sample2_pass.pdf)
+> Task 1: [Topic approval form example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task1_sample2_pass.pdf)  
+> Task 2: [Project proposal example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task2_sample2_pass.pdf)  
+> Task 3: [Project report example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task3_sample2_pass.pdf)
 ````
 `````
 
 :::{tip}
-If you see `Unable to render code block` when attempting to view the examples, open the link using Firefox or download and view it with your favorite viewer.  
+If you see `Unable to render code block` /C769-ROM3/hen attempting to view the examples, open the link using Firefox or download and view it with your favorite viewer.  
 :::
 
 **Watch:** Choosing a Project Idea
@@ -94,7 +94,7 @@ Though still relevant, we created this video for ROM2 -not ROM3.
 
 Once you've decided on a topic, complete the approval form following the template:
 
-<!-- > [![Thumbnail of the Topic Approval Form](https://github.com/ashejim/C769/blob/main/url_images/C769_t1_approval.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/ES7B62K50FpKhgSwOZxgRVcByPT8r6oIWJDFrcpzpPNbqw?e=qWyM4D) #https://1drv.ms/w/s!Av4KQnJfiBxmiIkCz9gDp0ikvbPwtA?e=reEd4k -->
+<!-- > [![Thumbnail of the Topic Approval Form](https://github.com/ashejim/C769-ROM3/blob/main/url_images/C769_t1_approval.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/ES7B62K50FpKhgSwOZxgRVcByPT8r6oIWJDFrcpzpPNbqw?e=qWyM4D) #https://1drv.ms/w/s!Av4KQnJfiBxmiIkCz9gDp0ikvbPwtA?e=reEd4k -->
 > [Topic Approval Form Template docx format](https://1drv.ms/w/s!Av4KQnJfiBxmiIkCe31_r6Eu3-uCmw)
 > [Topic Approval Form Template odt format](https://1drv.ms/w/s!Av4KQnJfiBxmiIkGNA-i9xb5h9Syfg?e=0Wie3B)
 
@@ -124,14 +124,14 @@ The waiver form is **only** required if your project includes restricted informa
 
 In most cases, obtaining authorization can be avoided by fabricating or masking identifying information. But if you choose to move forward using restricted information, you must obtain documented permissions and submit them along with a waiver form to Assessments.
 
-<!-- > [![Thumbnail of the Waiver Form](https://github.com/ashejim/C769/blob/main/url_images/769_waiver_form_thumb-1.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EUNAmf7lWqxOmKBLWTQ_zPcByoxrOLLK5sILQeeUoeYGeQ?e=9d1Ef7) -->
+<!-- > [![Thumbnail of the Waiver Form](https://github.com/ashejim/C769-ROM3/blob/main/url_images/769_waiver_form_thumb-1.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EUNAmf7lWqxOmKBLWTQ_zPcByoxrOLLK5sILQeeUoeYGeQ?e=9d1Ef7) -->
 
 > [Waiver Form docx format](https://1drv.ms/w/s!Av4KQnJfiBxmiIkILad_8JLGwI3xOw?e=DCZdZ5)
 >
 > [Waiver Form odt format](https://1drv.ms/w/s!Av4KQnJfiBxmiIkGNA-i9xb5h9Syfg?e=IBsmrg)
 
 <!-- :::{note}
-![waiver checkbox](../C769/url_images/waiver-check-1box.png)
+![waiver checkbox](../C769-ROM3/url_images/waiver-check-1box.png)
 ::: -->
 
 (task1:faq)=
