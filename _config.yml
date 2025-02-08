@@ -10,7 +10,7 @@ logo: ./url_images/logo2.png
 
 #https://jupyterbook.org/en/stable/structure/configure.html#disable-building-files-that-arent-in-the-table-of-contents
 # only_build_toc_files: true
-only_build_toc_files: false
+only_build_toc_files: true
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
