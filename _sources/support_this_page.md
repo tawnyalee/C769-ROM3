@@ -12,6 +12,7 @@ We are continually trying to improve this page to better help students. How can 
 - For the official rubric and resoruces, you can leave feedback via the 'Course Feedback' button.
     > <img src="https://github.com/ashejim/C769/blob/main/url_images/course_feedback_link.png?raw=true" height="125px" />
     This creates a ticket for our product development team, and is appropriate for giving feedback on the official rubric or learning resource.
+CHECK!
 
 (support:comments)=
 ## Questions, comments, or suggestions?
