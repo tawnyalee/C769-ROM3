@@ -20,13 +20,22 @@ These examples are on-par with average passing tasks. Use them as a guideline fo
 `````{tab-set}
 
 ````{tab-item} Example set 1
-**Degree emphasis:** Cybersecurity and information assurance
-> Task 1: [Topic approval form example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task1_sample1_pass.pdf)  
-> Task 2: [Project proposal example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task2_sample1_pass.pdf)  
-> Task 3: [Project report example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task3_sample1_pass.pdf)
+**Topic:** Modern Security Information and Event Management (SIEM) Systems
+> Task 1: [Topic approval form example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/Sample1_C769_ROM3_Task1.pdf)  
+> Task 2: [Project proposal example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/Sample1_C769_ROM3_Task2.pdf)  
+> Task 3: [Project report example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/Sample1_C769_ROM3_Task3.pdf)
 ````
 ````{tab-item} Example set 2
-**Degree emphasis:** Information Technology
+**Topic:** Security Evaluation and Upgrade
+> Task 1: [Topic approval form example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/Sample2_C769_ROM3_Task1.pdf)  
+> Task 2: [Project proposal example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/Sample2_C769_ROM3_Task2.pdf)  
+> Task 3: [Project report example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/Sample2_C769_ROM3_Task3.pdf)
+:::{note}
+The security upgrades, not the evalaution, is what's necessary to meet the requriements. 
+:::
+````
+````{tab-item} Example set 3
+**Topic:** App Development
 > Task 1: [Topic approval form example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task1_sample2_pass.pdf)  
 > Task 2: [Project proposal example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task2_sample2_pass.pdf)  
 > Task 3: [Project report example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task3_sample2_pass.pdf)
