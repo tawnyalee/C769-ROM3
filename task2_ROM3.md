@@ -51,6 +51,11 @@ Not sure where to start? Students often begin with the summary, A1-A3, but it mi
 Sections are assessed independently against the rubric requirements, i.e., when evaluating a section, the evaluator will check for fulfilling the requirements within that section. They *don't* assess writing style. You can (and sometimes must) reuse content from other areas as needed. It's not about writing something fun to read but demonstrating you've met the requirements.
 :::
 
+```{admonition}
+:class: error
+Do **NOT** write an outline. You must sections must be written in a narrative style with sentences and paragraphs. Tables and bullet points are acceptable for sections F1, F2, and G. 
+```
+
 (task2:A)=
 ## A: Proposal Overview
 
@@ -83,13 +88,18 @@ Summarize the IT problem. Provide context to understand the problem, e.g., detai
 
 Summarize the solution and why the solution will fix the problem from A1.
 
-### A3 and A3a: Implementation Plan and Justification of Plan
+### A3: Implementation Plan
 
-Summarize the implemetation plan detailed in section E (Methodology). The summary should:
+Descibe the implemetation plan detailed in section E (Methodology). This section should:
 
-- Outline specific steps
+- Describe the *specific steps* for how the plan will be implemented (this section should repeat *E: Methodology*).
 - Identify who will implement each step
-- Justify why the plan is appropiate (A3a), e.g., why do this plan instead of another one?
+
+### A3a: Justification of Plan
+
+Justify why the plan is appropiate (A3a), e.g., why do this plan instead of another one? It's best to address this requriement in a seperate section. 
+
+Though A1-A3a are overview sections, they are often returned for being to brief -particaulatly A3. There is no penalty for being too long, and you are allowed to reuse content from other sections.
 
 (task2:B)=
 

@@ -49,21 +49,23 @@ Some examples of acceptable topics:
 
 The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.com/sites/capstonearchives/excellence/Pages/UndergraduateInformation.aspx) includes a wide range of completed projects to review. However, remember that they all are, by definition, *above and beyond* the requirements. Therefore, do not use these as examples of what's needed to meet the requirements.
 
-For a more down-to-earth example of what's required, see these approval form examples:
-
+For a more down-to-earth example of what's required, see these examples: 
+<!-- [task 1 examples](resources:examples) -->
 `````{tab-set}
-
 ````{tab-item} Example set 1
-**Degree emphasis:** Cybersecurity and information assurance
-> Task 1: [Topic approval form example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task1_sample1_pass.pdf)  
-> Task 2: [Project proposal example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task2_sample1_pass.pdf)  
-> Task 3: [Project report example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task3_sample1_pass.pdf)
+**Topic:** Modern Security Information and Event Management (SIEM) Systems
+> Task 1: [Topic approval form example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/Sample1_C769_ROM3_Task1.pdf)  
+> Task 2: [Project proposal example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/Sample1_C769_ROM3_Task2.pdf)  
+> Task 3: [Project report example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/Sample1_C769_ROM3_Task3.pdf)
 ````
 ````{tab-item} Example set 2
-**Degree emphasis:** Information Technology
-> Task 1: [Topic approval form example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task1_sample2_pass.pdf)  
-> Task 2: [Project proposal example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task2_sample2_pass.pdf)  
-> Task 3: [Project report example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task3_sample2_pass.pdf)
+**Topic:** Security Evaluation and Upgrade
+> Task 1: [Topic approval form example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/Sample2_C769_ROM3_Task1.pdf)  
+> Task 2: [Project proposal example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/Sample2_C769_ROM3_Task2.pdf)  
+> Task 3: [Project report example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/Sample2_C769_ROM3_Task3.pdf)
+:::{note}
+The security upgrades, not the evalaution, is what's necessary to meet the requriements. 
+:::
 ````
 `````
 
