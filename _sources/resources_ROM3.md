@@ -18,7 +18,6 @@
 These examples are on-par with average passing tasks. Use them as a guideline for what evaluators accept in fulfillment of the requirements.  
 
 `````{tab-set}
-
 ````{tab-item} Example set 1
 **Topic:** Modern Security Information and Event Management (SIEM) Systems
 > Task 1: [Topic approval form example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/Sample1_C769_ROM3_Task1.pdf)  
@@ -34,13 +33,6 @@ These examples are on-par with average passing tasks. Use them as a guideline fo
 The security upgrades, not the evalaution, is what's necessary to meet the requriements. 
 :::
 ````
-````{tab-item} Example set 3
-**Topic:** App Development
-> Task 1: [Topic approval form example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task1_sample2_pass.pdf)  
-> Task 2: [Project proposal example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task2_sample2_pass.pdf)  
-> Task 3: [Project report example](https://github.com/ashejim/C769-ROM3/blob/main/resources/examples/C769_ROM3_Task3_sample2_pass.pdf)
-````
-
 `````
 
 (resources:examples:excellence)=

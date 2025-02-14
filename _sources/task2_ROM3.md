@@ -51,6 +51,11 @@ Not sure where to start? Students often begin with the summary, A1-A3, but it mi
 Sections are assessed independently against the rubric requirements, i.e., when evaluating a section, the evaluator will check for fulfilling the requirements within that section. They *don't* assess writing style. You can (and sometimes must) reuse content from other areas as needed. It's not about writing something fun to read but demonstrating you've met the requirements.
 :::
 
+```{admonition}
+:class: error
+Do **NOT** write an outline. You must sections must be written in a narrative style with sentences and paragraphs. Tables and bullet points are acceptable for sections F1, F2, and G. 
+```
+
 (task2:A)=
 ## A: Proposal Overview
 
