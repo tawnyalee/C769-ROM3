@@ -98,7 +98,7 @@ Once you've decided on a topic, complete the approval form following the templat
 
 <!-- > [![Thumbnail of the Topic Approval Form](https://github.com/ashejim/C769-ROM3/blob/main/url_images/C769_t1_approval.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/ES7B62K50FpKhgSwOZxgRVcByPT8r6oIWJDFrcpzpPNbqw?e=qWyM4D) #https://1drv.ms/w/s!Av4KQnJfiBxmiIkCz9gDp0ikvbPwtA?e=reEd4k -->
 > [Topic Approval Form Template docx format](https://1drv.ms/w/s!Av4KQnJfiBxmiIkCe31_r6Eu3-uCmw)
-> [Topic Approval Form Template odt format](https://1drv.ms/w/s!Av4KQnJfiBxmiIkGNA-i9xb5h9Syfg?e=0Wie3B)
+> [Topic Approval Form Template odt format](https://1drv.ms/w/s!Av4KQnJfiBxmiIkGkDPXnFSkpZ4u5A?e=86FdHg)
 
 Include a rough outline of your client, their problem(s), and your IT plan to fix it. **Email the completed form to** **[your course instructor](ci_page)**, who will either approve it with their signature or provide feedback.
 
@@ -128,9 +128,9 @@ In most cases, obtaining authorization can be avoided by fabricating or masking 
 
 <!-- > [![Thumbnail of the Waiver Form](https://github.com/ashejim/C769-ROM3/blob/main/url_images/769_waiver_form_thumb-1.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EUNAmf7lWqxOmKBLWTQ_zPcByoxrOLLK5sILQeeUoeYGeQ?e=9d1Ef7) -->
 
-> [Waiver Form docx format](https://1drv.ms/w/s!Av4KQnJfiBxmiIkILad_8JLGwI3xOw?e=DCZdZ5)
+> [Waiver Form docx format](https://raw.github.com/ashejim/C769-ROM3/main/resources/C769_IT%20Capstone%20Project%20Restricted%20Information%20Authorization%20Form.docx)
 >
-> [Waiver Form odt format](https://1drv.ms/w/s!Av4KQnJfiBxmiIkGNA-i9xb5h9Syfg?e=IBsmrg)
+> [Waiver Form odt format](https://raw.github.com/ashejim/C769-ROM3/main/resources/C769_IT%20Capstone%20Project%20Restricted%20Information%20Authorization%20Form.odt)
 
 <!-- :::{note}
 ![waiver checkbox](../C769-ROM3/url_images/waiver-check-1box.png)
