@@ -97,8 +97,8 @@ Though still relevant, we created this video for ROM2 -not ROM3.
 Once you've decided on a topic, complete the approval form following the template:
 
 <!-- > [![Thumbnail of the Topic Approval Form](https://github.com/ashejim/C769-ROM3/blob/main/url_images/C769_t1_approval.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/ES7B62K50FpKhgSwOZxgRVcByPT8r6oIWJDFrcpzpPNbqw?e=qWyM4D) #https://1drv.ms/w/s!Av4KQnJfiBxmiIkCz9gDp0ikvbPwtA?e=reEd4k -->
-> [Topic Approval Form Template docx format](https://1drv.ms/w/s!Av4KQnJfiBxmiIkCe31_r6Eu3-uCmw)
-> [Topic Approval Form Template odt format](https://1drv.ms/w/s!Av4KQnJfiBxmiIkGkDPXnFSkpZ4u5A?e=86FdHg)
+> [Topic Approval Form Template docx format](https://1drv.ms/w/s!Av4KQnJfiBxmiIkIyqYfUEDqz2azUw?e=uDeniq)
+> [Topic Approval Form Template odt format](https://1drv.ms/w/s!Av4KQnJfiBxmiIkGkDPXnFSkpZ4u5A?e=1nhb0B)
 
 Include a rough outline of your client, their problem(s), and your IT plan to fix it. **Email the completed form to** **[your course instructor](ci_page)**, who will either approve it with their signature or provide feedback.
 
