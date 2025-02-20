@@ -190,6 +190,3 @@ If you cannot access your COS page, please contact your course instructor to req
 - Task 1: Topic Approval
 - Task 2: The Proposal
 - Task 3: The Conclusion
-
-
-TEST
