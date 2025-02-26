@@ -72,9 +72,13 @@ You can combine and revise Task 2 sections [A1, A2, and A3](task2:A), adjusting 
 
 (task3:B)=
 
-## B: Other Works
+## B and B1: Review of Other Works & Works Supporting Implementation
 
 The requirements for this section are identical to that of [task 2 section B](task2:B) -only you must have **three** works different from those in task 2 cited following [APA guidelines](task3:grammar), e.g., (Author year).
+
+1. **Summarize the work.** tell your reader what the work is about; there is no need to offer an opinion or analyze it -simply summarize the content. We recommend 1-2 paragraphs per work.
+2. **Include an in-text citation,** e.g., (Author, year) for [APA guidelines](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles/author-date). Consider using a [referencing tool](resources:general:grammar:sources).
+3. **Relate the work to your project.** Following the summary, describe how the work expands the context of the problem or supports the implementation solution. We recommend at least one paragraph per work.
 
 <!-- - [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
 - [google.scholar.com](https://scholar.google.com/) -->
@@ -135,13 +139,13 @@ Describe any unanticipated requirements and how you dealt with them. Include any
 
 (task3:H)=
 
-## H: Conclusion
+## H and H1: Conclusion & Success of Project
 
 Summarize the results and potential effects of your completed project compared to the expected outcomes outlined in [task 2 section H](task2:H).
 
 - Summarize results and effects of the completed project.
 - Discuss immediate and potential future impacts of the completed project.
-- Using the metric(s) provided in Task 2 section H, *Outcomes*, explain why the project was or was not successful.
+- (H1) Using the metric(s) provided in Task 2 section H, *Outcomes*, explain why the project was or was not successful.
 
 (task3:I)=
 
