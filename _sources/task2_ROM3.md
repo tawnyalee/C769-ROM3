@@ -144,9 +144,9 @@ To rationalize the need, describe the business, technical, user needs, and inter
 For this section, do the following:  
 
 - Discuss how the solution from A2 will improve the client's approach to achieving its goals (strategy).
-- Discuss how the solution from A2 will align with (or at least not contradict) the client's beliefs and values (culture). 
+- Discuss how the solution from A2 will align with (or at least not contradict) the client's beliefs and values (culture).
 
-'Environment' is an umbrella which includes 'strategy' and 'culture.'
+'Environment' is an umbrella which includes 'strategy' and 'culture.' Use both these words in your description.
 
 ## E: Methodology
 
