@@ -65,7 +65,7 @@ Write an overview of your project by doing the following:
 - Describe the outcomes of the project (update Task 2 A2 and summarize Task 3 H)
 
 ```{tip}
-- Including keywords such as "problem," "implementation," and "outcomes;" at the beginning of paragraphs will make parts addressing those items easily identifiable.
+Including keywords such as "problem," "implementation," and "outcomes;" at the beginning of paragraphs will make parts addressing those items easily identifiable.
 ```
 
 You can combine and revise Task 2 sections [A1, A2, and A3](task2:A), adjusting for any variances and providing an overview of the completed project. In addition, you can reuse any content from related task 3 sections [C](task3:C) and [D](task3:D). As this section often combines and revises Task 2 Sections A1, A2, and A3; it is typically of similar length.
