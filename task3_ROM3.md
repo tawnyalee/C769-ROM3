@@ -56,13 +56,19 @@ Submissions with missing sections are automatically returned. If everything went
 
 (task3:A)=
 
-## A: Overview
+## A: Summary
 
-You can combine and revise Task 2 sections [A1, A2, and A3](task2:A), adjusting for any variances and providing a summary of the completed project. In addition, you can reuse any content from related task 3 sections [C](task3:C) and [D](task3:D). As this section often combines and revises Task 2 Sections A1, A2, and A3; it is typically of similar length.
+Write an overview of your project by doing the following:
+
+- Describe the problem from Task 2 (update Task 2 A1).
+- Describe project implementation steps including specific steps (update Task 2 A3).
+- Describe the outcomes of the project (update Task 2 A2 and summarize Task 3 H)
 
 ```{tip}
-- The required depth of detail is up to the subjectivity of the evaluator. Though summaries are typically short, there is no penalty for *too much* detail. 
+- Including keywords such as "problem," "implementation," and "outcomes;" at the beginning of paragraphs will make parts addressing those items easily identifiable.
 ```
+
+You can combine and revise Task 2 sections [A1, A2, and A3](task2:A), adjusting for any variances and providing an overview of the completed project. In addition, you can reuse any content from related task 3 sections [C](task3:C) and [D](task3:D). As this section often combines and revises Task 2 Sections A1, A2, and A3; it is typically of similar length.
 
 (task3:B)=
 
