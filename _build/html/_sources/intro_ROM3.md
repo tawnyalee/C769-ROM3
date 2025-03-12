@@ -54,7 +54,7 @@ Task 2 details {fas}`arrow-right`
 :class-header: bg-light text-center
 :link: ./task3_ROM3.html
 
-**Task 3**
+**Task 3 TEST**
 ^^^
 
 ```{image} ./url_images/task_3_image.jpg
@@ -67,8 +67,6 @@ The Conclusion -a detailed paper describing the implementation of the Proposal.
 Task 3 details {fas}`arrow-right`
 :::
 ::::
-
-
 
 ## Start Here
 
