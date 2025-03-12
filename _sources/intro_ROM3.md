@@ -14,9 +14,9 @@ The capstone includes three parts:
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: ./task1_ROM3.html
+:link: ./task1.html
 
-**Task 1 TEST**
+**Task 1**
 ^^^
 
 ```{image} ./url_images/idea-b.png
@@ -33,7 +33,7 @@ Task 1 details {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: ./task2_ROM3.html
+:link: ./task2.html
 
 **Task 2**
 ^^^
@@ -52,7 +52,7 @@ Task 2 details {fas}`arrow-right`
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: ./task3_ROM3.html
+:link: ./task3.html
 
 **Task 3**
 ^^^
