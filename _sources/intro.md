@@ -16,7 +16,7 @@ Go to the *Assessments* section of your COS page and review the top line:
 :margin: 3
 :class-body: text-center
 :class-header: bg-light text-center
-:link: https://ashejim.github.io/C769-ROM2/intro_ROM2.html
+:link: https://ashejim.github.io/C769-ROM3/intro_ROM3.html
 
 <!-- new card title -->
 **C769 ROM2**
