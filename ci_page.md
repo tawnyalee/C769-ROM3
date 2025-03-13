@@ -19,6 +19,12 @@ Approval forms should be sent to your *assigned course instructor.* If they are 
 The undergraduate capstone team supports ALL undergraduate capstones (9 different courses). When contacting faculty, please check that they support your castone.  
 ```
 
+## Faculty Contact Information
+
+[Caspstone Faculty Contact information](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EW-0zAhi6epJkFrkSz5f8AkBi-6DEVVh5KwbSSMypgaSkg?e=1ieWkm)
+
+Before contacting an instructor, please check that they support your capstone.
+
 ## Candice Allen
 
 :::{margin} Contact Info
