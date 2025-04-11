@@ -95,7 +95,7 @@ Descibe the implemetation plan detailed in section E (Methodology). This section
 
 Justify why the plan is appropiate (A3a), e.g., why do this plan instead of another one? It's best to address this requriement in a seperate section. 
 
-Though A1-A3a are overview sections, they are often returned for being to brief -particaulatly A3. There is no penalty for being too long, and you are allowed to reuse content from other sections.
+Though A1-A3a are overview sections, they are often returned for being too brief -particaulatly A3. There is no penalty for being too long, and you are allowed to reuse content from other sections.
 
 (task2:B)=
 
@@ -248,14 +248,14 @@ At a minimum, there should be one goal, each goal should have two objectives, an
    <ul style="font-size:8pt">
       <li><strong>Goal 1:&nbsp;</strong>Description of the goal<ul style="list-style-type: circle;">
                <li><strong>Objective 1.a:&nbsp;</strong>Description of the objective and how it supports the goal.<ul>
-                     <li><strong>Deliverable 1.a.i:&nbsp;</strong>Description of the objective and how it supports the objective.</li>
-                     <li><strong>Deliverable 1.a.ii:&nbsp;</strong>Description of the objective and how it supports the objective.</li>
-                     <li><strong>Deliverable 1.a.iii:&nbsp;</strong>Description of the objective and how it supports the objective.</li>
+                     <li><strong>Deliverable 1.a.i:&nbsp;</strong>Description of the deliverable and how it supports the objective.</li>
+                     <li><strong>Deliverable 1.a.ii:&nbsp;</strong>Description of the deliverable and how it supports the objective.</li>
+                     <li><strong>Deliverable 1.a.iii:&nbsp;</strong>Description of the deliverable and how it supports the objective.</li>
                   </ul>
                </li>
                <li><strong>Objective 1.b:&nbsp;</strong>Description of the objective and how it supports the goal.<ul>
-                     <li><strong>Deliverable 1.b.i:&nbsp;</strong>Description of the objective and how it supports the objective.</li>
-                     <li><strong>Deliverable 1.b.ii:&nbsp;</strong>Description of the objective and how it supports the objective.</li>
+                     <li><strong>Deliverable 1.b.i:&nbsp;</strong>Description of the deliverable and how it supports the objective.</li>
+                     <li><strong>Deliverable 1.b.ii:&nbsp;</strong>Description of the deliverable and how it supports the objective.</li>
                   </ul>
                </li>
          </ul>
