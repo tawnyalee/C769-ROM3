@@ -93,7 +93,7 @@ Descibe the implemetation plan detailed in section E (Methodology). This section
 
 ### A3a: Justification of Plan
 
-Justify why the plan is appropiate (A3a), e.g., why do this plan instead of another one? It's best to address this requriement in a seperate section.
+Justify why the implementation plan from A3 is appropriate, e.g., why do this plan instead of another one? It's best to address this requirement in a separate section.
 
 Though A1-A3a are overview sections, they are often returned for being too brief -particaulatly A3. There is no penalty for being too long, and you are allowed to reuse content from other sections.
 
@@ -170,7 +170,7 @@ This section has two parts, F1 and F2.
 
 At a minimum, there should be one goal, each goal should have two objectives, and each objective has one deliverable. Here's an example of what this might look like:
 
-<blockquote>
+<blockquote style = "width:400pt;length:font-family: Times">
    <style type="text/css">
    .tg  {border-collapse:collapse;border-spacing:0;align:left}
    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:8px;
@@ -184,8 +184,8 @@ At a minimum, there should be one goal, each goal should have two objectives, an
    .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
    .tg .tg-0lax{text-align:left;vertical-align:top}
    </style>
-   <p>
-   <b style="font-size:10pt">F1. Goals, Objectives, and Deliverables Table</b>
+   
+   <b style="font-family: Times;font-size:8pt">F1. Goals, Objectives, and Deliverables Table</b>
    <!-- https://www.tablesgenerator.com/html_tables# -->
    <table class="tg" align="left">
    <thead>
@@ -233,41 +233,30 @@ At a minimum, there should be one goal, each goal should have two objectives, an
    </tr>
    </tbody>
    </table>
-   <br>
-   <br>
-   <br>
-   <br>
-   <br>
-   <br>
-   <br>
-   <br>
-   </p>
-   <p>
-   <b style="font-size:10pt">F2. Goals, Objectives, and Deliverables Descriptions</b>
-   <!-- https://wordtohtml.net/ -->
-   <ul style="font-size:8pt">
-      <li><strong>Goal 1:&nbsp;</strong>Description of the goal<ul style="list-style-type: circle;">
-               <li><strong>Objective 1.a:&nbsp;</strong>Description of the objective and how it supports the goal.<ul>
-                     <li><strong>Deliverable 1.a.i:&nbsp;</strong>Description of the deliverable and how it supports the objective.</li>
-                     <li><strong>Deliverable 1.a.ii:&nbsp;</strong>Description of the deliverable and how it supports the objective.</li>
-                     <li><strong>Deliverable 1.a.iii:&nbsp;</strong>Description of the deliverable and how it supports the objective.</li>
-                  </ul>
-               </li>
-               <li><strong>Objective 1.b:&nbsp;</strong>Description of the objective and how it supports the goal.<ul>
-                     <li><strong>Deliverable 1.b.i:&nbsp;</strong>Description of the deliverable and how it supports the objective.</li>
-                     <li><strong>Deliverable 1.b.ii:&nbsp;</strong>Description of the deliverable and how it supports the objective.</li>
-                  </ul>
-               </li>
-         </ul>
-      </li>
-      <li><strong>Goal 2: </strong>Description of the goal<strong>&nbsp;</strong>
-         <ul style="font-weight: initial;">
-               <li><strong>Objective 2.a:</strong> ...</li>
-         </ul>
-      </li>
-   </ul>
+   <br/><br/><br/><br/><br/><br/><br/><br>
+
+   <b style="font-size:8pt; font-family: Times">F2. Goals, Objectives, and Deliverables Descriptions</b>
+   <span style="font-size:6pt; font-family: Times">
+      <br>**Goal 1** A description of goal 1...  Aliquam in felis eros. Etiam pharetra nisl metus, ut aliquet ex pellentesque ac. Nam eleifend iaculis odio, eget mollis quam. Phasellus suscipit urna eu mauris. in scelerisque est blandit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin hendrerit.
+      <br>**Objective 1.a**
+      Description of the objective and how it supports the goal... Quisque auctor odio sed nunc vulputate, in scelerisque est blandit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin hendrerit.in sagittis urna elit at sem. Quisque placerat faucibus orci.
+      <br>**Deliverable 1.a.i**
+      Description of the deliverable and how it supports the objective... Integer volutpat, turpis eu vestibulum consectetur, dui lacus mattis elit, in sagittis urna elit at sem. Quisque placerat faucibus orci.
+      <br>**Deliverable 1.a.ii**
+      Description of the deliverable and how it supports the objective... Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis commodo massa nec leo volutpat, quis.
+      <br>**Deliverable 1.a.iii**
+      Description of the deliverable and how it supports the objective... In ut finibus lacus. Quisque finibus metus erat, in hendrerit diam dignissim vitae. Sed at ultrices elit, non auctor justo.
+      <br>**Objective 1.b**
+      Description of the objective and how it supports the goal... Mauris tempor ac tellus eget dignissim. Maecenas varius tristique porttitor. Phasellus sit amet risus nisi. Mauris eget elit dictum, euismod risus eget, porttitor leo. Porttitor quis nisl et, molestie pharetra mi. Proin aliquet lectus id.
+      <br>**Deliverable 1.b.i**
+      Description of the deliverable and how it supports the objective... Aenean elementum magna ut blandit cursus. Sed tortor magna, porttitor quis nisl et, molestie pharetra mi. Proin aliquet lectus id.
+      <br>**Deliverable 1.b.ii**
+      Description of the deliverable and how it supports the objective... Curabitur in neque ac mauris condimentum ultricies convallis eu ex. Cras in auctor ex, non ultricies erat. Fusce neque ipsum.
+      <br>**Goal 2**
+      A description of goal 2... Pellentesque vel arcu ac diam maximus vehicula sit amet gravida odio. Sed ultricies sed metus sagittis scelerisque. Duis ornare, quam a interdum maximus, mi enim. Enean elementum magna ut blandit cursus. Sed tortor magna, porttitor quis nisl et, molestie pharetra mi.
+      <br>**Objective 2.a:** ...
+</span>
 </blockquote>
-   </p>
 
 **Goals** and **objectives** are very similar. Goals are broader, defining the end you are trying to achieve (e.g., improving customer service). You need at least one goal. Objectives are more specific, often measurable steps supporting the goal (e.g., real-time inventory updates for customers). Goals and objectives can be considered high-level and mid-management tasks, respectively. **Deliverables** are tangible tasks supporting the objectives (e.g., an inventory status screen reporting real-time inventory to customers).
 
