@@ -78,11 +78,11 @@ Keeping an uninformed reader in mind may help you understand why the Proposal Ov
 
 ### A1: Problem Summary
 
-Summarize the IT problem. Provide context to understand the problem, e.g., details about the client and their situation.
+Summarize the IT problem. Provide context to understand the problem, e.g., details about the client and their situation. For example, are there multiple locations? What is the size of the company? What industry are they in? Explain how their problem is impacting daily operations.
 
 ### A2: IT Solution
 
-Summarize the solution and why the solution will fix the problem from A1.
+Summarize the solution and why the solution will fix the problem from A1. Be specific. Avoid phrases, such as "such as," "like," or "including," because it implies a partial list. Instead, tell the reader exactly what hardware and/or software is being implemented. Don't just state that you will upgrade the network. Give us enough detail in what you are implementing that someone could possibly generate a purchase order for all the hardware/software needed for the project based on your IT Solution alone. Use direct, declarative language. Avoid writing the 'we should do this' type of response. Instead, use language that makes it clear this is the solution, such as "We will be doing this."
 
 ### A3: Implementation Plan
 
@@ -93,7 +93,7 @@ Descibe the implemetation plan detailed in section E (Methodology). This section
 
 ### A3a: Justification of Plan
 
-Justify why the implementation plan from A3 is appropriate, e.g., why do this plan instead of another one? It's best to address this requirement in a separate section.
+Justify why the implementation plan from A3 is appropriate, e.g., why do this plan instead of another one? It's best to address this requirement in a separate section. When forming your justification, ask yourself the following questions. Do some tasks have prerequisites? Is the project methodology suited to the project type? Are some aspects critical to success, and if so, how? Answering these questions will help you formulate a justification for your plan. Refer directly to the type of IT Solution you are implementing when you write your justification. Avoid being too generic.
 
 Though A1-A3a are overview sections, they are often returned for being too brief -particaulatly A3. There is no penalty for being too long, and you are allowed to reuse content from other sections.
 
@@ -109,9 +109,9 @@ We created this video for ROM2, but it is still relevant for ROM3.
 
 Think of this section as a literature review where you summarize a work (part B) and then relate it to your project (B1). The works *only need to connect to an aspect of your project*; they don't need to align with your project entirely. You use anything an industry professional created, e.g., online articles, videos, vendor documentation, whitepapers, etc. Most importantly, you must have **four** different works cited with an in-text citation, e.g., (Smith, 2021).
 
-1. **Summarize the work.** tell your reader what the work is about; there is no need to offer an opinion or analyze it -simply summarize the content. We recommend 1-2 paragraphs per work.
+1. **Summarize the work.** tell your reader what the work is about; there is no need to offer an opinion or analyze it -simply summarize the content. We recommend 1-2 paragraphs per work. 
 2. **Include an in-text citation,** e.g., (Author, year) for [APA guidelines](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles/author-date). Consider using a [referencing tool](resources:general:grammar:sources).
-3. **Relate the work to your project.** Following the summary, describe how the work expands the context of the problem or supports the implementation solution. We recommend at least one paragraph per work.
+3. **Relate the work to your project.** Following the summary, describe how the work expands the context of the problem or supports the implementation solution. We recommend at least one paragraph per work. 
 
 <!-- - [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
 - [google.scholar.com](https://scholar.google.com/) -->
@@ -131,7 +131,7 @@ and then add WGU and other libraries.
 
 ## C: Project Rationale
 
-The **Project Rationale** provides a comprehensive picture of *why* the project is needed and *why* it is feasible.
+The **Project Rationale** provides a comprehensive picture of *why* the project is needed and *why* it is feasible. Let the reader know the possible consequences if the project is not implemented.
 
 To rationalize the need, describe the business, technical, user needs, and internal or external environmental factors. Consider including an example illustrating how the project will help. To rationalize the project's feasibility, consider factors such as time, resources, and expertise.
 
@@ -142,7 +142,7 @@ For this section, do the following:  
 - Discuss how the solution from A2 will improve the client's approach to achieving its goals (strategy).
 - Discuss how the solution from A2 will align with (or at least not contradict) the client's beliefs and values (culture).
 
-'Environment' is an umbrella which includes 'strategy' and 'culture.' Use both these words in your description.
+'Environment' is an umbrella which includes 'strategy' and 'culture.' Use both these words in your description. It won't hurt to contrast the solution from A2 with the existing IT infrastructure relevant to the problem.
 
 ## E: Methodology
 
@@ -155,7 +155,7 @@ We created this video for ROM2, but it is relevant to this version, ROM3.
 In this section, you must do the following:
 
 1. Identify a "standard" methodology for project planning, e.g., ADDIE or SDLC.
-2. Describe the planned project steps in each phase of the methodology, e.g., analysis, design, etc.
+2. Describe the planned project steps in each phase of the methodology, e.g., analysis, design, etc. Tell us which steps belong in each phase. 
 
 Step 2 provides a detailed implementation plan, as outlined in section A2. If using a less-known methodology, relate it to a "standard" one.
 
@@ -258,7 +258,7 @@ At a minimum, there should be one goal, each goal should have two objectives, an
 </span>
 </blockquote>
 
-**Goals** and **objectives** are very similar. Goals are broader, defining the end you are trying to achieve (e.g., improving customer service). You need at least one goal. Objectives are more specific, often measurable steps supporting the goal (e.g., real-time inventory updates for customers). Goals and objectives can be considered high-level and mid-management tasks, respectively. **Deliverables** are tangible tasks supporting the objectives (e.g., an inventory status screen reporting real-time inventory to customers).
+**Goals** and **objectives** are very similar. Goals are broader, defining the end you are trying to achieve (e.g., improving customer service). You need at least one goal. Objectives are more specific, often measurable steps supporting the goal (e.g., real-time inventory updates for customers). Goals and objectives can be considered high-level and mid-management tasks, respectively. **Deliverables** are tangible tasks supporting the objectives (e.g., an inventory status screen reporting real-time inventory to customers). Details to include in discussing deliverables could be the role responsible for the deliverable and how the deliverable will be created/executed.
 
 ## G: Project Timeline with Milestones
 
@@ -268,7 +268,7 @@ At a minimum, there should be one goal, each goal should have two objectives, an
 We created this video for ROM2. It is relevant to ROM3 except for the 'Outcomes' segment.
 :::
 
-Create a table providing the *Duration*, *Projected start date*, and *Anticipated end date* for each milestone and deliverable. No additional information is needed.
+Create a table providing the *Duration*, *Projected start date*, and *Projected end date* for each milestone and deliverable. No additional information is needed.
 
 |Milestone or Deliverable  |Duration  | Projected Start Date| Projected End date
 --- | --- | ---| ---|
@@ -293,6 +293,12 @@ Provide objective, measurable criteria for success. You need specific details so
 Time-based metrics work best, for example:
 
 >...This project will be considered a success when the wireless network maintains 90% uptime a week for a month and 75% of new member and loan documentation is processed through the credit union.
+
+>...This project will be a success if user satisfaction is high. 4 weeks after the implementation, we will send out a survey to users. After two weeks, we will tally responses. Our goal is to achieve 70% user satisfaction.
+
+In the above examples, we tell the metric (user satisfaction/network performance), how we will measure it (survey after 4 weeks/uptime calculations), and our goal (70% satisfaction/90% a week).
+
+Sometimes students struggle to know how they would claim their project is a success. One way of selecting a good metric is to ask yourself how you would test what you just installed to know it worked properly. Can the appropriate users access the appropriate resources? Are auto-generated emails reaching their destination? Does it function as expected? Make your test your metric.
 
 (task2:grammar)=
 
